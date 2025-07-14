@@ -1,0 +1,1188 @@
+Buffs: {
+	NPCElectrified: {
+		DisplayName: 带电
+		Description: 一动就疼！
+	}
+
+	NPCBleeding: {
+		DisplayName: 流血
+		Description: 缓慢流失生命
+	}
+
+	PhoenixCooldownBuff: {
+		DisplayName: 凤凰重生
+		Description: 你 已 重 生
+	}
+
+	BetsyPhialBuff: {
+		DisplayName: 武器灌注: 双足翼龙诅咒
+		Description: 攻击敌怪施加[C/BC3E44:双足翼龙诅咒]减益
+	}
+
+	BleedingPhialBuff: {
+		DisplayName: 武器灌注: 流血
+		Description: 攻击敌怪施加[C/FF1B05:流血]减益
+	}
+
+	ConfusedPhialBuff: {
+		DisplayName: 武器灌注: 困惑
+		Description: 攻击敌怪施加[C/688EFD:困惑]减益
+	}
+
+	CursedFlamesPhialBuff: {
+		DisplayName: 武器灌注: 诅咒焰
+		Description: 攻击敌怪施加[C/60F802:诅咒焰]减益
+	}
+
+	DaybreakPhialBuff: {
+		DisplayName: 武器灌注: 破晓
+		Description: 攻击敌怪施加[C/FFFCC8:破晓]减益
+	}
+
+	ElectricityPhialBuff: {
+		DisplayName: 武器灌注: 电力
+		Description: 攻击敌怪施加[C/71FBFF:带电]减益
+	}
+
+	ExplosivePhialBuff: {
+		DisplayName: 武器灌注: 爆炸
+		Description: 攻击敌怪产生[C/7B7B7B:爆炸]
+	}
+
+	FirePhialBuff: {
+		DisplayName: 武器灌注: 火焰
+		Description: 攻击敌怪施加[C/F48801:着火了！]减益
+	}
+
+	FrostburnPhialBuff: {
+		DisplayName: 武器灌注: 霜焰
+		Description: 攻击敌怪施加[C/1CC6F4:霜冻]减益
+	}
+
+	GoldPhialBuff: {
+		DisplayName: 武器灌注: 黄金
+		Description: 攻击敌怪施加[C/C7B045:迈达斯]减益
+	}
+
+	IchorPhialBuff: {
+		DisplayName: 武器灌注: 灵液
+		Description: 攻击敌怪施加[C/FECA50:灵液]减益
+	}
+
+	PoisonPhialBuff: {
+		DisplayName: 武器灌注: 毒药
+		Description: 攻击敌怪施加[C/65D780:中毒]减益
+	}
+
+	ShadowflamePhialBuff: {
+		DisplayName: 武器灌注: 暗影焰
+		Description: 攻击敌怪施加[C/B96EF9:暗影焰]减益
+	}
+
+	VenomPhialBuff: {
+		DisplayName: 武器灌注: 毒液
+		Description: 攻击敌怪施加[C/7B4783:酸性毒液]减益
+	}
+
+	AquaAffinityBuff: {
+		DisplayName: 喜水
+		Description: 你在水中移动不再受阻
+	}
+
+	BeeBuff: {
+		DisplayName: 蜜蜂
+		Description: 仆从命中敌怪时有20%概率释放蜜蜂
+	}
+
+	BoostBuff: {
+		DisplayName: 增进
+		Description: 双击左/右方向键进行冲刺
+	}
+
+	BreakerBuff: {
+		DisplayName: 破坏者
+		Description: 剑的大小提升10%
+	}
+
+	CavernBuff: {
+		DisplayName: 洞穴
+		Description: 处于[C/7F7F7F:洞穴层]时，增加25%挖掘速度
+	}
+
+	CorruptionBuff: {
+		DisplayName: 腐化
+		Description: 处于[C/624A60:腐化之地]时，增加10%伤害
+	}
+
+	CrimsonBuff: {
+		DisplayName: 猩红
+		Description: 处于[C/902626:猩红之地]时，增加10%伤害
+	}
+
+	CrimtaneAssaultBuff: {
+		DisplayName: 血腥袭击
+		Description:
+			'''
+			增加5%暴击率
+			攻击者会受到一半伤害
+			'''
+	}
+
+	DemoniteProtectionBuff: {
+		DisplayName: 恶魔保护
+		Description: 增加5点防御力和5%伤害减免
+	}
+
+	DesertBuff: {
+		DisplayName: 沙漠
+		Description: 处于[C/CFBB72:沙漠]时，增加10%幸运值
+	}
+
+	FastfallBuff: {
+		DisplayName: 速降
+		Description: 提升50%降落速度
+	}
+
+	FastHandsBuff: {
+		DisplayName: 迅手
+		Description: 增加5%攻击速度
+	}
+
+	FirestarterBuff: {
+		DisplayName: 点火
+		Description: 火焰减益将在敌怪间传播
+	}
+
+	FlightBuff: {
+		DisplayName: 飞行
+		Description: 增加25%飞行时间
+	}
+
+	ForestBuff: {
+		DisplayName: 森林
+		Description: 处于[C/1BCF5A:森林]时，提升10%移动速度
+	}
+
+	HallowBuff: {
+		DisplayName: 神圣
+		Description: 处于[C/AA7DCE:神圣之地]时，增加25%飞行时间
+	}
+
+	HellBuff: {
+		DisplayName: 地狱
+		Description: 处于[C/F50404:地狱]时，免疫[C/FF7F27:燃烧]减益
+	}
+
+	HolyBuff: {
+		DisplayName: 圣洁
+		Description: 攻击敌怪时获得[C/FFEA5C:神圣防护]增益
+	}
+
+	HoppingBuff: {
+		DisplayName: 跳跃
+		Description: 提升10%跳跃速度、摔落伤害高度增加25并增加跳跃高度
+	}
+
+	HyperBuff: {
+		DisplayName: 超速
+		Description: 提升5%奔跑速度和加速度
+	}
+
+	ImpactBuff: {
+		DisplayName: 冲击
+		Description: 你的弹幕额外造成10%伤害
+	}
+
+	InfestedBuff: {
+		DisplayName: 寄生
+		Description: 近战武器挥舞时释放伤害性蘑菇
+	}
+
+	JungleBuff: {
+		DisplayName: 丛林
+		Description: 处于[C/69B002:丛林]时，免疫[C/65D780:中毒]减益
+	}
+
+	ManaforceBuff: {
+		DisplayName: 魔力强化
+		Description: 增加20%最大魔力
+	}
+
+	OceanBuff: {
+		DisplayName: 海洋
+		Description: 处于[C/65BAE3:海洋]时，增加15%渔力
+	}
+
+	PalladiumRegenerationBuff: {
+		DisplayName: 钯金
+		Description: 攻击敌怪时获得[C/F77E55:快速治疗]增益
+	}
+
+	PhoenixBuff: {
+		DisplayName: 凤凰
+		Description: 死亡后[C/FF3400:满血重生]，有5分钟冷却
+	}
+
+	SentryBuff: {
+		DisplayName: 哨兵
+		Description: 增加1个最大哨兵栏位
+	}
+
+	ShockBuff: {
+		DisplayName: 电击
+		Description: 附近敌人会受到电击
+	}
+
+	ShredderBuff: {
+		DisplayName: 粉碎者
+		Description: 对Boss额外造成20%的伤害
+	}
+
+	SnowBuff: {
+		DisplayName: 雪原
+		Description: 处于[C/89BEE7:雪原]时，免疫[C/2186AE:冷冻]减益
+	}
+
+	SoftfallBuff: {
+		DisplayName: 软着陆
+		Description: 免疫摔落伤害
+	}
+
+	StabbingBuff: {
+		DisplayName: 穿刺
+		Description: 增加8点护甲穿透
+	}
+
+	SteadfastBuff: {
+		DisplayName: 坚定
+		Description: 免疫击退
+	}
+
+	UnflinchingBuff: {
+		DisplayName: 不屈
+		Description: 延长受伤后的无敌状态时间
+	}
+
+	WisdomBuff: {
+		DisplayName: 智慧
+		Description: 减少10%魔力消耗
+	}
+
+	AgilityBuff: {
+		DisplayName: 迅敏
+		Description:
+			'''
+			[i:Buffaria/FastHandsPotion] 提升5%攻击速度
+			[i:Buffaria/HyperPotion] 提升5%奔跑速度和加速度
+			[i:290] 提升25%移动速度
+			'''
+	}
+
+	BurningBuff: {
+		DisplayName: 焚烧
+		Description:
+			'''
+			[i:Buffaria/FirestarterPotion] 火焰减益将在敌怪间传播
+			[i:288] 免疫[C/FF7F27:燃烧]、[C/F48801:着火了！]减益和[C/CB2200:岩浆]伤害
+			[i:2359] 减少来自冷系敌怪的伤害
+			'''
+	}
+
+	CreationBuff: {
+		DisplayName: 创造
+		Description:
+			'''
+			[i:2322] 增加25%挖掘速度
+			[i:2325] 增加25%放置速度
+			[i:2325] 增加放置距离
+			'''
+	}
+
+	DoubleRegenerationBuff: {
+		// DisplayName: 双生
+		/* Description:
+			'''
+			[i:] 提供生命再生
+			[i:] 增加魔力恢复速度
+			''' */
+	}
+
+	GoliathBuff: {
+		DisplayName: 巨人
+		Description:
+			'''
+			[i:292][i:Buffaria/DemoniteProtectionPotion] 增加13点防御力
+			[i:2346][i:Buffaria/DemoniteProtectionPotion] 增加15%伤害减免
+			[i:Buffaria/HolyPotion] 攻击敌怪时获得[C/FFEA5C:神圣防护]增益
+			[i:Buffaria/UnflinchingPotion] 延长受伤后的无敌状态时间
+			[i:Buffaria/SteadfastPotion] 免疫击退
+			'''
+	}
+
+	MermaidBuff: {
+		DisplayName: 美人鱼
+		Description:
+			'''
+			[i:Buffaria/AquaAffinityPotion] 你在水中移动不再受阻
+			[i:2327] 允许你在水中游泳
+			[i:291] 可在水中呼吸
+			[i:302] 按向下键进入水中
+			'''
+	}
+
+	SuperLuckyBuff: {
+		DisplayName: 超级幸运
+		Description: 增加20%幸运值，并在今年玩到 丝之歌
+	}
+
+	SurvivalBuff: {
+		DisplayName: 生存
+		Description:
+			'''
+			[i:289][i:293]增加[C/F51318:生命]与[C/7D55FF:魔力]恢复速度
+			[i:Buffaria/PalladiumRegenerationPotion]攻击敌怪时获得[C/F77E55:快速治疗]增益
+			'''
+	}
+
+	TerminatorBuff: {
+		DisplayName: 终结者
+		Description:
+			'''
+			[i:Buffaria/BoostPotion] 双击左/右方向键可进行冲刺
+			[i:2348] 附近的敌人将会被点燃
+			[i:Buffaria/PhoenixPotion] 死亡后[C/FF3400:满血重生]，有5分钟冷却
+			[i:Buffaria/ShredderPotion] 对Boss额外造成20%的伤害
+			[i:Buffaria/StabbingPotion] 增加8点护甲穿透
+			[i:301] 攻击者会受到全部伤害
+			'''
+	}
+
+	UltimaBuff: {
+		DisplayName: 终末
+		Description: 获得所有药水的效果
+	}
+
+	VisionaryBuff: {
+		DisplayName: 远视
+		Description:
+			'''
+			[i:5211] 显示被感染物块的位置
+			[i:2329] 你可以看到附近的危险物块
+			[i:304] 显示附近生物的位置
+			[i:299] 提升夜视能力
+			[i:Buffaria/RadarPotion] 显示敌对弹幕的位置
+			[i:298] 自生发出光亮
+			[i:296] 显示宝藏和矿石的位置
+			'''
+	}
+
+	WarfareBuff: {
+		DisplayName: 战斗
+		Description:
+			'''
+			[i:2266] 提高近战能力
+			[i:2344] 20%概率不消耗弹药
+			[i:303] 增加10%弓箭伤害和20%箭矢速度
+			[i:300] 增加敌怪生成速率
+			[i:Buffaria/BeePotion] 仆从命中敌怪时有20%概率释放蜜蜂
+			[i:Buffaria/BreakerPotion] 剑的大小提升10%
+			[i:Buffaria/ImpactPotion] 你的弹幕额外造成10%伤害
+			[i:Buffaria/InfestedPotion] 挥舞近战武器释放伤害性蘑菇
+			[i:Buffaria/CloseQuartersPotion] 增加10%真近战伤害
+			[i:294] 增加20%魔法伤害
+			[i:2347] 增加10%暴击率
+			[i:2328][i:Buffaria/SentryPotion] 增加1个最大仆从栏位和哨兵栏位
+			[i:2326] 提高击退力
+			[i:2349] 增加10%伤害
+			[i:Buffaria/WisdomPotion] 减少10%魔力消耗
+			'''
+	}
+
+	WayfarerBuff: {
+		DisplayName: 旅人
+		Description:
+			'''
+			[i:Buffaria/CavernPotion] 处于[C/7F7F7F:洞穴层]时，增加25%挖掘速度
+			[i:Buffaria/CorruptionPotion][i:Buffaria/CrimsonPotion] 处于[C/624A60:腐化之地]或[C/902626:猩红之地]时，增加10%伤害
+			[i:Buffaria/DesertPotion] 处于[C/CFBB72:沙漠]时，增加10%幸运值
+			[i:Buffaria/ForestPotion] 处于[C/1BCF5A:森林]时，提升10%移动速度
+			[i:Buffaria/HallowPotion] 处于[C/AA7DCE:神圣之地]时，增加25%飞行时间
+			[i:Buffaria/OceanPotion] 处于[C/65BAE3:海洋]时，增加15%渔力
+			[i:Buffaria/HellPotion] 处于[C/F50404:地狱]时，免疫[C/FF7F27:燃烧]减益
+			[i:Buffaria/JunglePotion] 处于[C/69B002:丛林]时，免疫[C/65D780:中毒]减益
+			[i:Buffaria/SnowPotion] 处于[C/89BEE7:雪原]时，免疫[C/2186AE:冷冻]减益
+			'''
+	}
+
+	WeightlessBuff: {
+		DisplayName: 失重
+		Description:
+			'''
+			[i:Buffaria/FastfallPotion] 提升50%降落速度
+			[i:295] 按向上键或向下键来控制下降速度
+			[i:Buffaria/FlightPotion] 增加25%飞行时间
+			[i:305] 按向上键可逆转重力
+			[i:Buffaria/HoppingPotion] 提升10%跳跃速度、摔落伤害高度增加25并增加跳跃高度
+			[i:Buffaria/SoftfallPotion] 免疫摔落伤害
+			'''
+	}
+
+	LegendaryPhialBuff: {
+		DisplayName: 武器灌注: 传说
+		Description: 攻击敌怪施加众多减益并产生[C/7B7B7B:爆炸]
+	}
+
+	RadarBuff: {
+		Description: 显示敌对弹幕的位置
+		DisplayName: 雷达
+	}
+
+	TrapperBuff: {
+		Description:
+			'''
+			[i:2344] 20%概率不消耗弹药
+			[i:303] 增加10%弓箭伤害和20%箭矢速度
+			[i:Buffaria/BeePotion] 仆从命中敌怪时有20%概率释放蜜蜂
+			[i:Buffaria/ImpactPotion] 你的弹幕额外造成10%伤害
+			[i:2328][i:Buffaria/SentryPotion] 增加1个最大仆从栏位和哨兵栏位
+			'''
+		DisplayName: 捕手
+	}
+
+	SpellswordBuff: {
+		Description:
+			'''
+			[i:2266] 提高近战能力
+			[i:Buffaria/BreakerPotion] 剑的大小提升10%
+			[i:Buffaria/InfestedPotion] 挥舞近战武器释放伤害性蘑菇
+			[i:Buffaria/CloseQuartersPotion] 增加10%真近战伤害
+			[i:294] 增加20%魔法伤害
+			[i:Buffaria/WisdomPotion] 减少10%魔力消耗
+			'''
+		DisplayName: 魔剑士
+	}
+
+	StarreachBuff: {
+		Description: 扩大[C/5559FF:魔力星]的拾取范围
+		DisplayName: 拾星
+	}
+
+	BoosterreachBuff: {
+		Description: 扩大[C/FF26CC:星云强化焰]的拾取范围
+		DisplayName: 拾焰
+	}
+
+	MagnetBuff: {
+		Description: 扩大[C/F71318:红心]、[C/5559FF:魔力星]和[C/FF26CC:星云强化焰]的拾取范围
+		DisplayName: 磁力
+	}
+
+	NebulaPhialBuff: {
+		Description: 攻击敌怪产生[C/FF26CC:星云强化焰]
+		DisplayName: 武器灌注: 星云
+	}
+
+	VoltaicPhialBuff: {
+		Description: 攻击敌怪施加[C/688EFD:困惑]、[C/71FBFF:带电]、[C/C7B045:迈达斯]减益并产生[C/7B7B7B:爆炸]
+		DisplayName: 武器灌注: 电流
+	}
+
+	ToxinPhialBuff: {
+		Description: 攻击敌怪施加[C/BC3E44:双足翼龙诅咒]、[C/FF1B05:流血]、[C/FECA50:灵液]、[C/65D780:中毒]和[C/7B4783:酸性毒液]减益
+		DisplayName: 武器灌注: 毒素
+	}
+
+	IncendiaryPhialBuff: {
+		Description: 攻击敌怪施加[C/60F802:诅咒焰]、[C/F48801:着火了！]、[C/1CC6F4:霜冻]和[C/B96EF9:暗影焰]减益
+		DisplayName: 武器灌注: 纵火
+	}
+
+	TrawlerBuff: {
+		Description:
+			'''
+			[i:2356] 钓上宝匣的几率更大
+			[i:2354] 提高15点渔力
+			[i:2355] 你能看到是什么在咬你的鱼钩
+			'''
+		DisplayName: 渔获
+	}
+
+	CloseQuartersBuff: {
+		Description: 增加10%真近战伤害
+		DisplayName: 近战
+	}
+
+	ForceBuff: {
+		Description:
+			'''
+			[i:2345][i:Buffaria/ManaforcePotion] 增加20%最大生命值和魔力
+			[i:Buffaria/CrimtaneAssaultPotion] 攻击者会受到一半伤害
+			[i:Buffaria/CrimtaneAssaultPotion] 增加5%暴击率
+			[i:Buffaria/ShockPotion] 附近敌人会受到电击
+			'''
+		DisplayName: 原力
+	}
+}
+
+Items: {
+	GreaterHoneyedHealingPotion: {
+		DisplayName: 强效蜂蜜治疗药水
+		Tooltip: Improves natural healing for a short time
+	}
+
+	GreaterRestorationPotion: {
+		DisplayName: 强效恢复药水
+		Tooltip: 缩短药水冷却时间
+	}
+
+	HoneyedHealingPotion: {
+		DisplayName: Honeyed Healing 药水
+		Tooltip: Improves natural healing for a short time
+	}
+
+	LesserHoneyedHealingPotion: {
+		DisplayName: 弱效Honeyed Healing 药水
+		Tooltip: Improves natural healing for a short time
+	}
+
+	LesserRestorationPotion: {
+		DisplayName: 弱效恢复药水
+		Tooltip: 缩短药水冷却时间
+	}
+
+	SuperHoneyedHealingPotion: {
+		DisplayName: 超级Honeyed Healing 药水
+		Tooltip: Improves natural healing for a short time
+	}
+
+	SuperRestorationPotion: {
+		DisplayName: 超级恢复药水
+		Tooltip: 缩短药水冷却时间
+	}
+
+	BetsyPhial: {
+		DisplayName: Betsy's药瓶
+		Tooltip: 攻击敌怪施加Betsy's Curse
+	}
+
+	BleedingPhial: {
+		DisplayName: Bleeding药瓶
+		Tooltip: 攻击敌怪施加bleeding
+	}
+
+	ConfusedPhial: {
+		DisplayName: Confusion药瓶
+		Tooltip: 攻击敌怪施加confusion
+	}
+
+	CursedFlamesPhial: {
+		DisplayName: Cursed Flames药瓶
+		Tooltip: 攻击敌怪施加cursed flames
+	}
+
+	DaybreakPhial: {
+		DisplayName: Daybreak药瓶
+		Tooltip: 攻击敌怪施加daybroken
+	}
+
+	ElectricityPhial: {
+		DisplayName: Electricity药瓶
+		Tooltip: 攻击敌怪施加electrified
+	}
+
+	ExplosivePhial: {
+		DisplayName: Explosive药瓶
+		Tooltip: Attacks explode
+	}
+
+	FirePhial: {
+		DisplayName: Fire药瓶
+		Tooltip: 攻击敌怪施加fire
+	}
+
+	FrostburnPhial: {
+		DisplayName: Frostburn药瓶
+		Tooltip: 攻击敌怪施加frostburn
+	}
+
+	GoldPhial: {
+		DisplayName: Gold药瓶
+		Tooltip: 攻击敌怪施加midas
+	}
+
+	IchorPhial: {
+		DisplayName: Ichor药瓶
+		Tooltip: 攻击敌怪施加ichor
+	}
+
+	PoisonPhial: {
+		DisplayName: Poison药瓶
+		Tooltip: 攻击敌怪施加poison
+	}
+
+	ShadowflamePhial: {
+		DisplayName: Shadowflame药瓶
+		Tooltip: 攻击敌怪施加shadowflame
+	}
+
+	VenomPhial: {
+		DisplayName: Venom药瓶
+		Tooltip: 攻击敌怪施加venom
+	}
+
+	AquaAffinityPotion: {
+		DisplayName: Aqua Affinity 药水
+		Tooltip: Grants free water movement
+	}
+
+	BeePotion: {
+		DisplayName: Bee 药水
+		Tooltip: Grants minions an 20% chance to release bees on hit
+	}
+
+	BoostPotion: {
+		DisplayName: Boost 药水
+		Tooltip: Grants the ability to double tap dash
+	}
+
+	BreakerPotion: {
+		DisplayName: Breaker 药水
+		Tooltip: Increases sword size by 10%
+	}
+
+	CavernPotion: {
+		DisplayName: Cavern 药水
+		Tooltip: Increases mining by 25% while in the caverns
+	}
+
+	CorruptionPotion: {
+		DisplayName: Corruption 药水
+		Tooltip: Increases damage by 10% while in the corruption
+	}
+
+	CrimsonPotion: {
+		DisplayName: Crimson 药水
+		Tooltip: Increases damage by 10% while in the crimson
+	}
+
+	CrimtaneAssaultPotion: {
+		DisplayName: Crimtane Assault 药水
+		Tooltip:
+			'''
+			Attackers take half damage
+			Increases critical strike chance by 5%
+			'''
+	}
+
+	DemoniteProtectionPotion: {
+		DisplayName: Demonite Protection 药水
+		Tooltip: Reduces damage taken by 5% and increases defense by 5
+	}
+
+	DesertPotion: {
+		DisplayName: Desert 药水
+		Tooltip: Increases luck by 10% while in the desert
+	}
+
+	FastfallPotion: {
+		DisplayName: Fastfall 药水
+		Tooltip: Increases fall speed by 50%
+	}
+
+	FastHandsPotion: {
+		DisplayName: Fast Hands 药水
+		Tooltip: Increases attack speed by 5%
+	}
+
+	FirestarterPotion: {
+		DisplayName: Firestarter 药水
+		Tooltip: Your fire debuffs will spread between enemies
+	}
+
+	FlightPotion: {
+		DisplayName: Flight 药水
+		Tooltip: Increases flight duration by 25%
+	}
+
+	ForestPotion: {
+		DisplayName: Forest 药水
+		Tooltip: Increases movement speed by 10% while in the purity
+	}
+
+	HallowPotion: {
+		DisplayName: Hallow 药水
+		Tooltip: Increases flight duration by 25% while in the hallow
+	}
+
+	HellPotion: {
+		DisplayName: Underworld 药水
+		Tooltip: Grants immunity to burning while in the underworld
+	}
+
+	HolyPotion: {
+		DisplayName: Holy 药水
+		Tooltip: Become immune after striking an enemy
+	}
+
+	HoppingPotion: {
+		DisplayName: Hopping 药水
+		Tooltip: Increases jump speed by 10%, fall damage resistance by 25, and increases jump height
+	}
+
+	HyperPotion: {
+		DisplayName: Hyper 药水
+		Tooltip: Increases running speed and acceleration by 5%
+	}
+
+	ImpactPotion: {
+		DisplayName: Impact 药水
+		Tooltip: Increases projectile damage by 10%
+	}
+
+	InfestedPotion: {
+		DisplayName: Infested 药水
+		Tooltip: Melee swings release damaging mushrooms
+	}
+
+	JunglePotion: {
+		DisplayName: Jungle 药水
+		Tooltip: Grants immunity to poison while in the jungle
+	}
+
+	ManaforcePotion: {
+		DisplayName: Manaforce 药水
+		Tooltip: Increases max mana by 20%
+	}
+
+	OceanPotion: {
+		DisplayName: Ocean 药水
+		Tooltip: Increases fishing power by 15 while at the ocean
+	}
+
+	PalladiumRegenerationPotion: {
+		DisplayName: Palladium Regeneration 药水
+		Tooltip: Grants greatly increased life regeneration after striking an enemy
+	}
+
+	PhoenixPotion: {
+		DisplayName: Phoenix 药水
+		Tooltip: Grants the ability to be revived with a 5 minute cooldown
+	}
+
+	SentryPotion: {
+		DisplayName: Sentry 药水
+		Tooltip: Increases your max number of sentries by 1
+	}
+
+	ShockPotion: {
+		DisplayName: Shock 药水
+		Tooltip: Electrifies nearby enemies
+	}
+
+	ShredderPotion: {
+		DisplayName: Shredder 药水
+		Tooltip: Attacks against bosses will do 20% extra damage
+	}
+
+	SnowPotion: {
+		DisplayName: Snow 药水
+		Tooltip: Grants immunity to chilled while in the tundra
+	}
+
+	SoftfallPotion: {
+		DisplayName: Softfall 药水
+		Tooltip: Grants fall damage immunity
+	}
+
+	StabbingPotion: {
+		DisplayName: Stabbing 药水
+		Tooltip: Increases armor penetration by 8
+	}
+
+	SteadfastPotion: {
+		DisplayName: Steadfast 药水
+		Tooltip: Grants immunity to knockback
+	}
+
+	UnflinchingPotion: {
+		DisplayName: Unflinching 药水
+		Tooltip: Increases length of invincibility after taking damage
+	}
+
+	WisdomPotion: {
+		DisplayName: Wisdom 药水
+		Tooltip: Reduces mana usage by 10%
+	}
+
+	AgilityPotion: {
+		DisplayName: Agility 药水
+		Tooltip:
+			'''
+			Increases attack speed by 5%
+			Increases running speed and acceleration by 5%
+			Increases movement speed by 25%
+			'''
+	}
+
+	BurningPotion: {
+		DisplayName: Burning 药水
+		Tooltip:
+			'''
+			Your fire debuffs will spread between enemies
+			Provides immunity to lava, burning, and on fire
+			Reduces damage from cold sources
+			'''
+	}
+
+	CreationPotion: {
+		DisplayName: Creation 药水
+		Tooltip:
+			'''
+			Increases mining speed by 25%
+			Increases placement speed by 25%
+			Increases placement range
+			'''
+	}
+
+	DoubleRegenerationPotion: {
+		DisplayName: Double Regeneration 药水
+		Tooltip:
+			'''
+			Provides life regeneration
+			Increases mana regeneration
+			'''
+	}
+
+	GoliathPotion: {
+		DisplayName: Goliath 药水
+		Tooltip:
+			'''
+			Increases defense by 13
+			Reduces damage taken by 15%
+			Become immune after striking an enemy
+			Increases length of invincibility after taking damage
+			Provides immunity to knockback
+			'''
+	}
+
+	MermaidPotion: {
+		DisplayName: Mermaid 药水
+		Tooltip:
+			'''
+			Grants free water movement
+			Lets you move swiftly in liquids
+			Breathe water instead of air
+			Allows the ability to walk on water
+			'''
+	}
+
+	SuperLuckPotion: {
+		DisplayName: 超级Luck 药水
+		Tooltip: Increases luck by 50%
+	}
+
+	SurvivalPotion: {
+		DisplayName: Survival 药水
+		Tooltip:
+			'''
+			Grants increased life and mana regen
+			Grants greatly increased life regeneration after striking an enemy
+			'''
+	}
+
+	TerminatorPotion: {
+		DisplayName: Terminator 药水
+		Tooltip:
+			'''
+			Grants the ability to double tap dash
+			Ignites nearby enemies
+			Grants the ability to be revived with a 5 minute cooldown
+			Attacks against bosses will do 20% extra damage
+			Increases armor penetration by 8
+			Attackers also take damage
+			'''
+	}
+
+	UltimaPotion: {
+		DisplayName: Ultima 药水
+		Tooltip: Effects of all ingredients
+	}
+
+	VisionaryPotion: {
+		DisplayName: Visionary 药水
+		Tooltip:
+			'''
+			Shows the location of infected blocks
+			Allows you to see nearby danger sources
+			Shows the location of enemies
+			Increases night vision
+			Shows the location of hostile projectiles
+			Emits an aura of light
+			Shows the location of treasure and ore
+			'''
+	}
+
+	WarfarePotion: {
+		DisplayName: Warfare 药水
+		Tooltip:
+			'''
+			Minor improvements to melee stats & lowered defense
+			20% chance to save ammo
+			10% increased bow damage and 20% increased arrow speed
+			Increases enemy spawn rate
+			Grants minions an 20% chance to release bees on hit
+			Increases sword size by 10%
+			Increases projectile damage by 10%
+			Melee swings release damaging mushrooms
+			Increases true melee damage by 10%
+			Increases magic damage by 20%
+			Increases critical strike chance by 10%
+			Increases max number of minions and sentries
+			Increases knockback
+			Increases damage by 10%
+			Mana usage reduced by 10%
+			'''
+	}
+
+	WayfarerPotion: {
+		DisplayName: Wayfarer 药水
+		Tooltip:
+			'''
+			Increases mining by 25% while in the caverns
+			Increases damage by 10% while in the corruption or crimson
+			Increases luck by 10% while in the desert
+			Increases movement speed by 10% while in the purity
+			Increases flight duration by 25% while in the hallow
+			Grants immunity to burning while in the underworld
+			Grants immunity to poison while in the jungle
+			Increases fishing power by 15 while at the ocean
+			Grants immunity to chilled while in the tundra
+			'''
+	}
+
+	WeightlessPotion: {
+		DisplayName: Weightless 药水
+		Tooltip:
+			'''
+			Increases fall speed by 50%
+			Slows falling speed
+			Increases flight duration by 25%
+			Allows the control of gravity
+			Increases jump speed by 10%, fall damage resistance by 25, and increases jump height
+			Grants fall damage immunity
+			'''
+	}
+
+	LegendaryPhial: {
+		DisplayName: Legendary药瓶
+		Tooltip: 攻击敌怪施加many debuffs and explode
+	}
+
+	GreaterScalingHealingPotion: {
+		DisplayName: 强效Scaling Healing 药水
+		Tooltip: Restores 75% of your missing health
+	}
+
+	LesserScalingHealingPotion: {
+		DisplayName: 弱效Scaling Healing 药水
+		Tooltip: Restores 25% of your missing health
+	}
+
+	ScalingHealingPotion: {
+		DisplayName: Scaling Healing 药水
+		Tooltip: Restores 50% of your missing health
+	}
+
+	SuperScalingHealingPotion: {
+		DisplayName: 超级Scaling Healing 药水
+		Tooltip: Restores 100% of your missing health
+	}
+
+	GreaterScalingManaPotion: {
+		DisplayName: 强效Scaling Mana 药水
+		Tooltip: Restores 75% of your missing mana
+	}
+
+	LesserScalingManaPotion: {
+		DisplayName: 弱效Scaling Mana 药水
+		Tooltip: Restores 25% of your missing mana
+	}
+
+	ScalingManaPotion: {
+		DisplayName: Scaling Mana 药水
+		Tooltip: Restores 50% of your missing mana
+	}
+
+	SuperScalingManaPotion: {
+		DisplayName: 超级Scaling Mana 药水
+		Tooltip: Restores 100% of your missing mana
+	}
+
+	RadarPotion: {
+		Tooltip: Shows the location of hostile projectiles
+		DisplayName: Radar 药水
+	}
+
+	TrapperPotion: {
+		Tooltip:
+			'''
+			20% chance to save ammo
+			10% increased bow damage and 20% increased arrow speed
+			Grants minions an 20% chance to release bees on hit
+			Increases projectile damage by 10%
+			Increases max number of minions and sentries
+			'''
+		DisplayName: Trapper 药水
+	}
+
+	SpellswordPotion: {
+		Tooltip:
+			'''
+			Minor improvements to melee stats & lowered defense
+			Increases sword size by 10%
+			Melee swings release damaging mushrooms
+			Increases true melee damage by 10%
+			Increases magic damage by 20%
+			Mana usage reduced by 10%
+			'''
+		DisplayName: Spellsword 药水
+	}
+
+	MegaRestorationPotion: {
+		Tooltip: 缩短药水冷却时间
+		DisplayName: 究极恢复药水
+	}
+
+	MegaHoneyedHealingPotion: {
+		Tooltip: Improves natural healing for a short time
+		DisplayName: 究极Honeyed Healing 药水
+	}
+
+	BoosterreachPotion: {
+		Tooltip: Increases pickup range for nebula boosters
+		DisplayName: Boosterreach 药水
+	}
+
+	StarreachPotion: {
+		Tooltip: Increases pickup range for mana stars
+		DisplayName: Starreach 药水
+	}
+
+	MagnetPotion: {
+		Tooltip: Increases pickup range for life hearts, mana stars, and nebula boosters
+		DisplayName: Magnet 药水
+	}
+
+	NebulaPhial: {
+		Tooltip: Attacks spawn nebula boosters
+		DisplayName: Nebula药瓶
+	}
+
+	VoltaicPhial: {
+		Tooltip: 攻击敌怪施加confusion, electrified, midas, and explode
+		DisplayName: Voltaic药瓶
+	}
+
+	ToxinPhial: {
+		Tooltip: 攻击敌怪施加Betsy's Curse, bleeding, ichor, poison, and venom
+		DisplayName: Toxin药瓶
+	}
+
+	IncendiaryPhial: {
+		Tooltip: 攻击敌怪施加cursed flames, fire, frostburn, and shadowflame
+		DisplayName: Incendiary药瓶
+	}
+
+	TrawlerPotion: {
+		Tooltip:
+			'''
+			Increases chance to get a crate
+			Increases fishing power by 15
+			Detects hooked fish
+			'''
+		DisplayName: Trawler 药水
+	}
+
+	CloseQuartersPotion: {
+		Tooltip: Increases true melee damage by 10%
+		DisplayName: Close Quarters 药水
+	}
+
+	ForcePotion: {
+		Tooltip:
+			'''
+			Attackers take half damage
+			Increases critical strike chance by 5%
+			Increases max life and mana by 20%
+			Electrifies nearby enemies
+			'''
+		DisplayName: Force 药水
+	}
+}
+
+Headers: {
+	Potions: 药水
+	Phials: 药瓶
+}
+
+CommonTooltips.Disabled: （已禁用）
+Projectiles.ElectricAura.DisplayName: 电场
+
+RecipeSystem: {
+	CopperOrTin: 铜矿 或 锡矿
+	IronOrLead: 铁矿 或 铅矿
+	SilverOrTungsten: 银矿 或 钨矿
+	GoldOrPlatinum: 金矿 或 铂金矿
+	EbonkoiOrHemopiranha: 黑檀锦鲤 或 血腥食人鱼
+	ShadowScaleOrTissueSample: 暗影鳞片 或 组织样本
+	LunarFragments: 任意 月亮碎片
+	Alcohols: 清酒 或 麦芽酒
+	CorruptionOrCrimsonPotion: 腐化药水 或 猩红药水
+	EnabledInConfig: 在物品设置中启用
+}
+
+Configs: {
+	BuffariaConfig: {
+		DisplayName: Buffaria设置
+
+		AuraVisuals: {
+			Label: 电场可视化
+			Tooltip: 切换电场的视觉效果
+		}
+
+		DisableInLegendary: {
+			Label: Disable In Legendary
+			Tooltip: Disables gills in For The Worthy or Zenith worlds
+		}
+
+		DisableImmunities: {
+			Label: Disable Immunities
+			Tooltip: Toggles if stacking 药水s is allowed
+		}
+
+		DisableFeatherfall: {
+			Label: Disable Featherfall
+			Tooltip: Toggles if Featherfall is active in upgraded 药水s
+		}
+
+		DisableGravitation: {
+			Label: Disable Gravitation
+			Tooltip: Toggles if Gravitation is active in upgraded 药水s
+		}
+
+		DisableBiomeSight: {
+			Label: Disable Biome Sight
+			Tooltip: Toggles if Biome Sight is active in upgraded 药水s
+		}
+
+		DisableDashing: {
+			Label: Disable Dashing
+			Tooltip: Toggles if double tap dashing is active in upgraded 药水s
+		}
+
+		DisablePhialEffects: {
+			Label: Disable药瓶 Effects
+			Tooltip: Toggles if dusts are created when using药瓶s
+		}
+	}
+}

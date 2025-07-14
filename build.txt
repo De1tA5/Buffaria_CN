@@ -1,0 +1,6 @@
+displayName = Buffaria-直装汉化
+author = 三杯伍迪
+version = 1.0
+translationMod = true
+modReferences = Buffaria
+sortAfter = Buffaria

@@ -1,0 +1,1188 @@
+Buffs: {
+	NPCElectrified: {
+		DisplayName: Electrified
+		Description: Moving hurts!
+	}
+
+	NPCBleeding: {
+		DisplayName: Bleeding
+		Description: Slowly losing life
+	}
+
+	PhoenixCooldownBuff: {
+		DisplayName: Phoenix Rebirth
+		Description: You have been revived
+	}
+
+	BetsyPhialBuff: {
+		DisplayName: Weapon Imbue: Betsy's Curse
+		Description: Attacks inflict enemies with Betsy's Curse
+	}
+
+	BleedingPhialBuff: {
+		DisplayName: Weapon Imbue: Bleeding
+		Description: Attacks inflict enemies with bleeding
+	}
+
+	ConfusedPhialBuff: {
+		DisplayName: Weapon Imbue: Confused
+		Description: Attacks inflict enemies with confusion
+	}
+
+	CursedFlamesPhialBuff: {
+		DisplayName: Weapon Imbue: Cursed Flames
+		Description: Attacks inflict enemies with cursed flames
+	}
+
+	DaybreakPhialBuff: {
+		DisplayName: Weapon Imbue: Daybreak
+		Description: Attacks inflict enemies with daybroken
+	}
+
+	ElectricityPhialBuff: {
+		DisplayName: Weapon Imbue: Electricity
+		Description: Attacks inflict enemies with electrified
+	}
+
+	ExplosivePhialBuff: {
+		DisplayName: Weapon Imbue: Explosive
+		Description: Attacks explode enemies
+	}
+
+	FirePhialBuff: {
+		DisplayName: Weapon Imbue: Fire
+		Description: Attacks inflict enemies with fire
+	}
+
+	FrostburnPhialBuff: {
+		DisplayName: Weapon Imbue: Frostburn
+		Description: Attacks inflict enemies with frostburn
+	}
+
+	GoldPhialBuff: {
+		DisplayName: Weapon Imbue: Gold
+		Description: Attacks inflict enemies with midas
+	}
+
+	IchorPhialBuff: {
+		DisplayName: Weapon Imbue: Ichor
+		Description: Attacks inflict enemies with ichor
+	}
+
+	PoisonPhialBuff: {
+		DisplayName: Weapon Imbue: Poison
+		Description: Attacks inflict enemies with poison
+	}
+
+	ShadowflamePhialBuff: {
+		DisplayName: Weapon Imbue: Shadowflame
+		Description: Attacks inflict enemies with shadowflame
+	}
+
+	VenomPhialBuff: {
+		DisplayName: Weapon Imbue: Venom
+		Description: Attacks inflict enemies with venom
+	}
+
+	AquaAffinityBuff: {
+		DisplayName: Aqua Affinity
+		Description: Your movement isn't impeded in water
+	}
+
+	BeeBuff: {
+		DisplayName: Bee
+		Description: Minions have a 20% to release bees on hit
+	}
+
+	BoostBuff: {
+		DisplayName: Boost
+		Description: You can double tap dash
+	}
+
+	BreakerBuff: {
+		DisplayName: Breaker
+		Description: Your swords are 10% bigger
+	}
+
+	CavernBuff: {
+		DisplayName: Cavern
+		Description: Mining speed is increased by 25% while in the caverns
+	}
+
+	CorruptionBuff: {
+		DisplayName: Corruption
+		Description: Damage is increased by 10% while in the corruption
+	}
+
+	CrimsonBuff: {
+		DisplayName: Crimson
+		Description: Damage is increased by 10% while in the crimson
+	}
+
+	CrimtaneAssaultBuff: {
+		DisplayName: Crimtane Assault
+		Description:
+			'''
+			Attackers take half damage
+			5% increased critical strike chance
+			'''
+	}
+
+	DemoniteProtectionBuff: {
+		DisplayName: Demonite Protection
+		Description: 5% reduced damage taken and increased defense by 5
+	}
+
+	DesertBuff: {
+		DisplayName: Desert
+		Description: Luck is increased by 10% while in the desert
+	}
+
+	FastfallBuff: {
+		DisplayName: Fastfall
+		Description: Increased fall speed by 50%
+	}
+
+	FastHandsBuff: {
+		DisplayName: Fast Hands
+		Description: Increased attack speed by 5%
+	}
+
+	FirestarterBuff: {
+		DisplayName: Firestarter
+		Description: Your flaming debuffs will spread to nearby enemies
+	}
+
+	FlightBuff: {
+		DisplayName: Flight
+		Description: Increased flight duration by 25%
+	}
+
+	ForestBuff: {
+		DisplayName: Forest
+		Description: Movement speed is increased by 10% while in the purity
+	}
+
+	HallowBuff: {
+		DisplayName: Hallow
+		Description: Increased flight duration by 25% while in the hallow
+	}
+
+	HellBuff: {
+		DisplayName: Underworld
+		Description: Immune to burning while in the underworld
+	}
+
+	HolyBuff: {
+		DisplayName: Holy
+		Description: Become immune after striking an enemy
+	}
+
+	HoppingBuff: {
+		DisplayName: Hopping
+		Description: Increased jump speed by 10%, fall damage resistance by 25, and increased jump height
+	}
+
+	HyperBuff: {
+		DisplayName: Hyper
+		Description: Increased running and acceleration speed by 5%
+	}
+
+	ImpactBuff: {
+		DisplayName: Impact
+		Description: Your projectiles deal 10% more damage
+	}
+
+	InfestedBuff: {
+		DisplayName: Infested
+		Description: Melee swings release damaging mushrooms
+	}
+
+	JungleBuff: {
+		DisplayName: Jungle
+		Description: Immune to poison while in the jungle
+	}
+
+	ManaforceBuff: {
+		DisplayName: Manaforce
+		Description: 20% increased max mana
+	}
+
+	OceanBuff: {
+		DisplayName: Ocean
+		Description: Fishing power is increased by 15% while at the ocean
+	}
+
+	PalladiumRegenerationBuff: {
+		DisplayName: Palladium
+		Description: Greatly increases life regeneration after striking an enemy
+	}
+
+	PhoenixBuff: {
+		DisplayName: Phoenix
+		Description: Grants a revive with a 5 minute cooldown
+	}
+
+	SentryBuff: {
+		DisplayName: Sentry
+		Description: Increased max number of sentries by 1
+	}
+
+	ShockBuff: {
+		DisplayName: Shock
+		Description: Nearby enemies are electrified
+	}
+
+	ShredderBuff: {
+		DisplayName: Shredder
+		Description: Attacks deal 20% extra damage to bosses
+	}
+
+	SnowBuff: {
+		DisplayName: Snow
+		Description: Immune to chilled while in the tundra
+	}
+
+	SoftfallBuff: {
+		DisplayName: Softfall
+		Description: You are immune to fall damage
+	}
+
+	StabbingBuff: {
+		DisplayName: Stabbing
+		Description: Increased armor penetration by 8
+	}
+
+	SteadfastBuff: {
+		DisplayName: Steadfast
+		Description: Immune to knockback
+	}
+
+	UnflinchingBuff: {
+		DisplayName: Unflinching
+		Description: Increased length of invincibility after taking damage
+	}
+
+	WisdomBuff: {
+		DisplayName: Wisdom
+		Description: Mana usage reduced by 10%
+	}
+
+	AgilityBuff: {
+		DisplayName: Agility
+		Description:
+			'''
+			Increased attack speed by 5%
+			Increased running and acceleration speed by 5%
+			Increased movement speed by 25%
+			'''
+	}
+
+	BurningBuff: {
+		DisplayName: Burning
+		Description:
+			'''
+			Your flaming debuffs will spread to nearby enemies
+			Immune to lava, burning, and on fire
+			Reduced damage from cold sources
+			'''
+	}
+
+	CreationBuff: {
+		DisplayName: Creation
+		Description:
+			'''
+			25% increased mining speed
+			25% increased placement speed
+			Increased placement range
+			'''
+	}
+
+	DoubleRegenerationBuff: {
+		DisplayName: Double Regeneration
+		Description:
+			'''
+			Provides life regeneration
+			Increased mana regeneration
+			'''
+	}
+
+	GoliathBuff: {
+		DisplayName: Goliath
+		Description:
+			'''
+			Increased defense by 13
+			15% reduced damage taken
+			Become immune after striking an enemy
+			Increased length of invincibility after taking damage
+			Immune to knockback
+			'''
+	}
+
+	MermaidBuff: {
+		DisplayName: Mermaid
+		Description:
+			'''
+			Your movement isn't impeded in water
+			Allows swimming in water
+			Breathe water instead of air
+			Press DOWN to enter water
+			'''
+	}
+
+	SuperLuckyBuff: {
+		DisplayName: Super Lucky
+		Description: Increased luck by 50%
+	}
+
+	SurvivalBuff: {
+		DisplayName: Survival
+		Description:
+			'''
+			Increased life and mana regen
+			Greatly increases life regeneration after striking an enemy
+			'''
+	}
+
+	TerminatorBuff: {
+		DisplayName: Terminator
+		Description:
+			'''
+			You can double tap dash
+			Nearby enemies are ignited
+			Grants a revive with a 5 minute cooldown
+			Attacks deal 20% extra damage to bosses
+			Increased armor penetration by 8
+			Attackers also take damage
+			'''
+	}
+
+	UltimaBuff: {
+		DisplayName: Ultima
+		Description: Effects of all ingredients
+	}
+
+	VisionaryBuff: {
+		DisplayName: Visionary
+		Description:
+			'''
+			Shows the location of infected blocks
+			You can see nearby hazards
+			Shows the location of enemies
+			Increased night vision
+			Shows the location of hostile projectiles
+			Emitting light
+			Shows the location of treasure and ore
+			'''
+	}
+
+	WarfareBuff: {
+		DisplayName: Warfare
+		Description:
+			'''
+			Increased melee abilities
+			20% chance to save ammo
+			10% increased bow damage and 20% increased arrow speed
+			Increased enemy spawn rate
+			Minions have a 20% to release bees on hit
+			Your swords are 10% bigger
+			Your projectiles deal 10% more damage
+			Melee swings release damaging mushrooms
+			10% increased true melee damage
+			20% increased magic damage
+			10% increased critical strike chance
+			Increased max number of minions and sentries
+			Increased knockback
+			10% increased damage
+			Mana usage reduced by 10%
+			'''
+	}
+
+	WayfarerBuff: {
+		DisplayName: Wayfarer
+		Description:
+			'''
+			Mining speed is increased by 25% while in the caverns
+			Damage is increased by 10% while in the corruption or crimson
+			Luck is increased by 10% while in the desert
+			Movement speed is increased by 10% while in the purity
+			Increased flight duration by 25% while in the hallow
+			Immune to burning while in the underworld
+			Immune to poison while in the jungle
+			Fishing power is increased by 15% while at the ocean
+			Immune to chilled while in the tundra
+			'''
+	}
+
+	WeightlessBuff: {
+		DisplayName: Weightless
+		Description:
+			'''
+			Increased fall speed by 50%
+			Press UP or DOWN to control speed of descent
+			Increased flight duration by 25%
+			Press UP to reverse gravity
+			Increased jump speed by 10%, fall damage resistance by 25, and increased jump height
+			You are immune to fall damage
+			'''
+	}
+
+	LegendaryPhialBuff: {
+		DisplayName: Weapon Imbue: Legendary
+		Description: Attacks inflict enemies with many debuffs and explode
+	}
+
+	RadarBuff: {
+		Description: Shows the location of hostile projectiles
+		DisplayName: Radar
+	}
+
+	TrapperBuff: {
+		Description:
+			'''
+			20% chance to save ammo
+			10% increased bow damage and 20% increased arrow speed
+			Minions have a 20% to release bees on hit
+			Your projectiles deal 10% more damage
+			Increased max number of minions and sentries
+			'''
+		DisplayName: Trapper
+	}
+
+	SpellswordBuff: {
+		Description:
+			'''
+			Increased melee abilities
+			Your swords are 10% bigger
+			Melee swings release damaging mushrooms
+			10% increased true melee damage
+			20% increased magic damage
+			Mana usage reduced by 10%
+			'''
+		DisplayName: Spellsword
+	}
+
+	StarreachBuff: {
+		Description: Increased mana star pickup range
+		DisplayName: Starreach
+	}
+
+	BoosterreachBuff: {
+		Description: Increased nebula booster pickup range
+		DisplayName: Boosterreach
+	}
+
+	MagnetBuff: {
+		Description: Increased life heart, mana star, and nebula booster pickup range
+		DisplayName: Magnet
+	}
+
+	NebulaPhialBuff: {
+		Description: Attacks spawn nebula boosters
+		DisplayName: Weapon Imbue: Nebula
+	}
+
+	VoltaicPhialBuff: {
+		Description: Attacks inflict enemies with confusion, electrified, midas, and explode
+		DisplayName: Weapon Imbue: Voltaic
+	}
+
+	ToxinPhialBuff: {
+		Description: Attacks inflict enemies with Betsy's Curse, bleeding, ichor, poison, and venom
+		DisplayName: Weapon Imbue: Toxin
+	}
+
+	IncendiaryPhialBuff: {
+		Description: Attacks inflict enemies with cursed flames, fire, frostburn, and shadowflame
+		DisplayName: Weapon Imbue: Incendiary
+	}
+
+	TrawlerBuff: {
+		Description:
+			'''
+			Greater chance of fishing up a crate
+			Increased fishing power by 15
+			You can see what's biting your hook
+			'''
+		DisplayName: Trawler
+	}
+
+	CloseQuartersBuff: {
+		Description: 10% increased true melee damage
+		DisplayName: Close Quarters
+	}
+
+	ForceBuff: {
+		Description:
+			'''
+			20% increased max life and mana
+			Attackers take half damage
+			5% increased critical strike chance
+			Nearby enemies are electrified
+			'''
+		DisplayName: Force
+	}
+}
+
+Items: {
+	GreaterHoneyedHealingPotion: {
+		DisplayName: Greater Honeyed Healing Potion
+		Tooltip: Improves natural healing for a short time
+	}
+
+	GreaterRestorationPotion: {
+		DisplayName: Greater Restoration Potion
+		Tooltip: Reduced potion cooldown
+	}
+
+	HoneyedHealingPotion: {
+		DisplayName: Honeyed Healing Potion
+		Tooltip: Improves natural healing for a short time
+	}
+
+	LesserHoneyedHealingPotion: {
+		DisplayName: Lesser Honeyed Healing Potion
+		Tooltip: Improves natural healing for a short time
+	}
+
+	LesserRestorationPotion: {
+		DisplayName: Lesser Restoration Potion
+		Tooltip: Reduced potion cooldown
+	}
+
+	SuperHoneyedHealingPotion: {
+		DisplayName: Super Honeyed Healing Potion
+		Tooltip: Improves natural healing for a short time
+	}
+
+	SuperRestorationPotion: {
+		DisplayName: Super Restoration Potion
+		Tooltip: Reduced potion cooldown
+	}
+
+	BetsyPhial: {
+		DisplayName: Betsy's Phial
+		Tooltip: Attacks inflict enemies with Betsy's Curse
+	}
+
+	BleedingPhial: {
+		DisplayName: Bleeding Phial
+		Tooltip: Attacks inflict enemies with bleeding
+	}
+
+	ConfusedPhial: {
+		DisplayName: Confusion Phial
+		Tooltip: Attacks inflict enemies with confusion
+	}
+
+	CursedFlamesPhial: {
+		DisplayName: Cursed Flames Phial
+		Tooltip: Attacks inflict enemies with cursed flames
+	}
+
+	DaybreakPhial: {
+		DisplayName: Daybreak Phial
+		Tooltip: Attacks inflict enemies with daybroken
+	}
+
+	ElectricityPhial: {
+		DisplayName: Electricity Phial
+		Tooltip: Attacks inflict enemies with electrified
+	}
+
+	ExplosivePhial: {
+		DisplayName: Explosive Phial
+		Tooltip: Attacks explode
+	}
+
+	FirePhial: {
+		DisplayName: Fire Phial
+		Tooltip: Attacks inflict enemies with fire
+	}
+
+	FrostburnPhial: {
+		DisplayName: Frostburn Phial
+		Tooltip: Attacks inflict enemies with frostburn
+	}
+
+	GoldPhial: {
+		DisplayName: Gold Phial
+		Tooltip: Attacks inflict enemies with midas
+	}
+
+	IchorPhial: {
+		DisplayName: Ichor Phial
+		Tooltip: Attacks inflict enemies with ichor
+	}
+
+	PoisonPhial: {
+		DisplayName: Poison Phial
+		Tooltip: Attacks inflict enemies with poison
+	}
+
+	ShadowflamePhial: {
+		DisplayName: Shadowflame Phial
+		Tooltip: Attacks inflict enemies with shadowflame
+	}
+
+	VenomPhial: {
+		DisplayName: Venom Phial
+		Tooltip: Attacks inflict enemies with venom
+	}
+
+	AquaAffinityPotion: {
+		DisplayName: Aqua Affinity Potion
+		Tooltip: Grants free water movement
+	}
+
+	BeePotion: {
+		DisplayName: Bee Potion
+		Tooltip: Grants minions an 20% chance to release bees on hit
+	}
+
+	BoostPotion: {
+		DisplayName: Boost Potion
+		Tooltip: Grants the ability to double tap dash
+	}
+
+	BreakerPotion: {
+		DisplayName: Breaker Potion
+		Tooltip: Increases sword size by 10%
+	}
+
+	CavernPotion: {
+		DisplayName: Cavern Potion
+		Tooltip: Increases mining by 25% while in the caverns
+	}
+
+	CorruptionPotion: {
+		DisplayName: Corruption Potion
+		Tooltip: Increases damage by 10% while in the corruption
+	}
+
+	CrimsonPotion: {
+		DisplayName: Crimson Potion
+		Tooltip: Increases damage by 10% while in the crimson
+	}
+
+	CrimtaneAssaultPotion: {
+		DisplayName: Crimtane Assault Potion
+		Tooltip:
+			'''
+			Attackers take half damage
+			Increases critical strike chance by 5%
+			'''
+	}
+
+	DemoniteProtectionPotion: {
+		DisplayName: Demonite Protection Potion
+		Tooltip: Reduces damage taken by 5% and increases defense by 5
+	}
+
+	DesertPotion: {
+		DisplayName: Desert Potion
+		Tooltip: Increases luck by 10% while in the desert
+	}
+
+	FastfallPotion: {
+		DisplayName: Fastfall Potion
+		Tooltip: Increases fall speed by 50%
+	}
+
+	FastHandsPotion: {
+		DisplayName: Fast Hands Potion
+		Tooltip: Increases attack speed by 5%
+	}
+
+	FirestarterPotion: {
+		DisplayName: Firestarter Potion
+		Tooltip: Your fire debuffs will spread between enemies
+	}
+
+	FlightPotion: {
+		DisplayName: Flight Potion
+		Tooltip: Increases flight duration by 25%
+	}
+
+	ForestPotion: {
+		DisplayName: Forest Potion
+		Tooltip: Increases movement speed by 10% while in the purity
+	}
+
+	HallowPotion: {
+		DisplayName: Hallow Potion
+		Tooltip: Increases flight duration by 25% while in the hallow
+	}
+
+	HellPotion: {
+		DisplayName: Underworld Potion
+		Tooltip: Grants immunity to burning while in the underworld
+	}
+
+	HolyPotion: {
+		DisplayName: Holy Potion
+		Tooltip: Become immune after striking an enemy
+	}
+
+	HoppingPotion: {
+		DisplayName: Hopping Potion
+		Tooltip: Increases jump speed by 10%, fall damage resistance by 25, and increases jump height
+	}
+
+	HyperPotion: {
+		DisplayName: Hyper Potion
+		Tooltip: Increases running speed and acceleration by 5%
+	}
+
+	ImpactPotion: {
+		DisplayName: Impact Potion
+		Tooltip: Increases projectile damage by 10%
+	}
+
+	InfestedPotion: {
+		DisplayName: Infested Potion
+		Tooltip: Melee swings release damaging mushrooms
+	}
+
+	JunglePotion: {
+		DisplayName: Jungle Potion
+		Tooltip: Grants immunity to poison while in the jungle
+	}
+
+	ManaforcePotion: {
+		DisplayName: Manaforce Potion
+		Tooltip: Increases max mana by 20%
+	}
+
+	OceanPotion: {
+		DisplayName: Ocean Potion
+		Tooltip: Increases fishing power by 15 while at the ocean
+	}
+
+	PalladiumRegenerationPotion: {
+		DisplayName: Palladium Regeneration Potion
+		Tooltip: Grants greatly increased life regeneration after striking an enemy
+	}
+
+	PhoenixPotion: {
+		DisplayName: Phoenix Potion
+		Tooltip: Grants the ability to be revived with a 5 minute cooldown
+	}
+
+	SentryPotion: {
+		DisplayName: Sentry Potion
+		Tooltip: Increases your max number of sentries by 1
+	}
+
+	ShockPotion: {
+		DisplayName: Shock Potion
+		Tooltip: Electrifies nearby enemies
+	}
+
+	ShredderPotion: {
+		DisplayName: Shredder Potion
+		Tooltip: Attacks against bosses will do 20% extra damage
+	}
+
+	SnowPotion: {
+		DisplayName: Snow Potion
+		Tooltip: Grants immunity to chilled while in the tundra
+	}
+
+	SoftfallPotion: {
+		DisplayName: Softfall Potion
+		Tooltip: Grants fall damage immunity
+	}
+
+	StabbingPotion: {
+		DisplayName: Stabbing Potion
+		Tooltip: Increases armor penetration by 8
+	}
+
+	SteadfastPotion: {
+		DisplayName: Steadfast Potion
+		Tooltip: Grants immunity to knockback
+	}
+
+	UnflinchingPotion: {
+		DisplayName: Unflinching Potion
+		Tooltip: Increases length of invincibility after taking damage
+	}
+
+	WisdomPotion: {
+		DisplayName: Wisdom Potion
+		Tooltip: Reduces mana usage by 10%
+	}
+
+	AgilityPotion: {
+		DisplayName: Agility Potion
+		Tooltip:
+			'''
+			Increases attack speed by 5%
+			Increases running speed and acceleration by 5%
+			Increases movement speed by 25%
+			'''
+	}
+
+	BurningPotion: {
+		DisplayName: Burning Potion
+		Tooltip:
+			'''
+			Your fire debuffs will spread between enemies
+			Provides immunity to lava, burning, and on fire
+			Reduces damage from cold sources
+			'''
+	}
+
+	CreationPotion: {
+		DisplayName: Creation Potion
+		Tooltip:
+			'''
+			Increases mining speed by 25%
+			Increases placement speed by 25%
+			Increases placement range
+			'''
+	}
+
+	DoubleRegenerationPotion: {
+		DisplayName: Double Regeneration Potion
+		Tooltip:
+			'''
+			Provides life regeneration
+			Increases mana regeneration
+			'''
+	}
+
+	GoliathPotion: {
+		DisplayName: Goliath Potion
+		Tooltip:
+			'''
+			Increases defense by 13
+			Reduces damage taken by 15%
+			Become immune after striking an enemy
+			Increases length of invincibility after taking damage
+			Provides immunity to knockback
+			'''
+	}
+
+	MermaidPotion: {
+		DisplayName: Mermaid Potion
+		Tooltip:
+			'''
+			Grants free water movement
+			Lets you move swiftly in liquids
+			Breathe water instead of air
+			Allows the ability to walk on water
+			'''
+	}
+
+	SuperLuckPotion: {
+		DisplayName: Super Luck Potion
+		Tooltip: Increases luck by 50%
+	}
+
+	SurvivalPotion: {
+		DisplayName: Survival Potion
+		Tooltip:
+			'''
+			Grants increased life and mana regen
+			Grants greatly increased life regeneration after striking an enemy
+			'''
+	}
+
+	TerminatorPotion: {
+		DisplayName: Terminator Potion
+		Tooltip:
+			'''
+			Grants the ability to double tap dash
+			Ignites nearby enemies
+			Grants the ability to be revived with a 5 minute cooldown
+			Attacks against bosses will do 20% extra damage
+			Increases armor penetration by 8
+			Attackers also take damage
+			'''
+	}
+
+	UltimaPotion: {
+		DisplayName: Ultima Potion
+		Tooltip: Effects of all ingredients
+	}
+
+	VisionaryPotion: {
+		DisplayName: Visionary Potion
+		Tooltip:
+			'''
+			Shows the location of infected blocks
+			Allows you to see nearby danger sources
+			Shows the location of enemies
+			Increases night vision
+			Shows the location of hostile projectiles
+			Emits an aura of light
+			Shows the location of treasure and ore
+			'''
+	}
+
+	WarfarePotion: {
+		DisplayName: Warfare Potion
+		Tooltip:
+			'''
+			Minor improvements to melee stats & lowered defense
+			20% chance to save ammo
+			10% increased bow damage and 20% increased arrow speed
+			Increases enemy spawn rate
+			Grants minions an 20% chance to release bees on hit
+			Increases sword size by 10%
+			Increases projectile damage by 10%
+			Melee swings release damaging mushrooms
+			Increases true melee damage by 10%
+			Increases magic damage by 20%
+			Increases critical strike chance by 10%
+			Increases max number of minions and sentries
+			Increases knockback
+			Increases damage by 10%
+			Mana usage reduced by 10%
+			'''
+	}
+
+	WayfarerPotion: {
+		DisplayName: Wayfarer Potion
+		Tooltip:
+			'''
+			Increases mining by 25% while in the caverns
+			Increases damage by 10% while in the corruption or crimson
+			Increases luck by 10% while in the desert
+			Increases movement speed by 10% while in the purity
+			Increases flight duration by 25% while in the hallow
+			Grants immunity to burning while in the underworld
+			Grants immunity to poison while in the jungle
+			Increases fishing power by 15 while at the ocean
+			Grants immunity to chilled while in the tundra
+			'''
+	}
+
+	WeightlessPotion: {
+		DisplayName: Weightless Potion
+		Tooltip:
+			'''
+			Increases fall speed by 50%
+			Slows falling speed
+			Increases flight duration by 25%
+			Allows the control of gravity
+			Increases jump speed by 10%, fall damage resistance by 25, and increases jump height
+			Grants fall damage immunity
+			'''
+	}
+
+	LegendaryPhial: {
+		DisplayName: Legendary Phial
+		Tooltip: Attacks inflict enemies with many debuffs and explode
+	}
+
+	GreaterScalingHealingPotion: {
+		DisplayName: Greater Scaling Healing Potion
+		Tooltip: Restores 75% of your missing health
+	}
+
+	LesserScalingHealingPotion: {
+		DisplayName: Lesser Scaling Healing Potion
+		Tooltip: Restores 25% of your missing health
+	}
+
+	ScalingHealingPotion: {
+		DisplayName: Scaling Healing Potion
+		Tooltip: Restores 50% of your missing health
+	}
+
+	SuperScalingHealingPotion: {
+		DisplayName: Super Scaling Healing Potion
+		Tooltip: Restores 100% of your missing health
+	}
+
+	GreaterScalingManaPotion: {
+		DisplayName: Greater Scaling Mana Potion
+		Tooltip: Restores 75% of your missing mana
+	}
+
+	LesserScalingManaPotion: {
+		DisplayName: Lesser Scaling Mana Potion
+		Tooltip: Restores 25% of your missing mana
+	}
+
+	ScalingManaPotion: {
+		DisplayName: Scaling Mana Potion
+		Tooltip: Restores 50% of your missing mana
+	}
+
+	SuperScalingManaPotion: {
+		DisplayName: Super Scaling Mana Potion
+		Tooltip: Restores 100% of your missing mana
+	}
+
+	RadarPotion: {
+		Tooltip: Shows the location of hostile projectiles
+		DisplayName: Radar Potion
+	}
+
+	TrapperPotion: {
+		Tooltip:
+			'''
+			20% chance to save ammo
+			10% increased bow damage and 20% increased arrow speed
+			Grants minions an 20% chance to release bees on hit
+			Increases projectile damage by 10%
+			Increases max number of minions and sentries
+			'''
+		DisplayName: Trapper Potion
+	}
+
+	SpellswordPotion: {
+		Tooltip:
+			'''
+			Minor improvements to melee stats & lowered defense
+			Increases sword size by 10%
+			Melee swings release damaging mushrooms
+			Increases true melee damage by 10%
+			Increases magic damage by 20%
+			Mana usage reduced by 10%
+			'''
+		DisplayName: Spellsword Potion
+	}
+
+	MegaRestorationPotion: {
+		Tooltip: Reduced potion cooldown
+		DisplayName: Mega Restoration Potion
+	}
+
+	MegaHoneyedHealingPotion: {
+		Tooltip: Improves natural healing for a short time
+		DisplayName: Mega Honeyed Healing Potion
+	}
+
+	BoosterreachPotion: {
+		Tooltip: Increases pickup range for nebula boosters
+		DisplayName: Boosterreach Potion
+	}
+
+	StarreachPotion: {
+		Tooltip: Increases pickup range for mana stars
+		DisplayName: Starreach Potion
+	}
+
+	MagnetPotion: {
+		Tooltip: Increases pickup range for life hearts, mana stars, and nebula boosters
+		DisplayName: Magnet Potion
+	}
+
+	NebulaPhial: {
+		Tooltip: Attacks spawn nebula boosters
+		DisplayName: Nebula Phial
+	}
+
+	VoltaicPhial: {
+		Tooltip: Attacks inflict enemies with confusion, electrified, midas, and explode
+		DisplayName: Voltaic Phial
+	}
+
+	ToxinPhial: {
+		Tooltip: Attacks inflict enemies with Betsy's Curse, bleeding, ichor, poison, and venom
+		DisplayName: Toxin Phial
+	}
+
+	IncendiaryPhial: {
+		Tooltip: Attacks inflict enemies with cursed flames, fire, frostburn, and shadowflame
+		DisplayName: Incendiary Phial
+	}
+
+	TrawlerPotion: {
+		Tooltip:
+			'''
+			Increases chance to get a crate
+			Increases fishing power by 15
+			Detects hooked fish
+			'''
+		DisplayName: Trawler Potion
+	}
+
+	CloseQuartersPotion: {
+		Tooltip: Increases true melee damage by 10%
+		DisplayName: Close Quarters Potion
+	}
+
+	ForcePotion: {
+		Tooltip:
+			'''
+			Attackers take half damage
+			Increases critical strike chance by 5%
+			Increases max life and mana by 20%
+			Electrifies nearby enemies
+			'''
+		DisplayName: Force Potion
+	}
+}
+
+Headers: {
+	Potions: Potions
+	Phials: Phials
+}
+
+CommonTooltips.Disabled: (Disabled)
+Projectiles.ElectricAura.DisplayName: Electric Aura
+
+RecipeSystem: {
+	CopperOrTin: Copper or Tin ore
+	IronOrLead: Iron or Lead ore
+	SilverOrTungsten: Silver or Tungsten ore
+	GoldOrPlatinum: Gold or Platinum ore
+	EbonkoiOrHemopiranha: Ebonkoi or Hemopiranha
+	ShadowScaleOrTissueSample: Shadow Scale or Tissue Sample
+	LunarFragments: Any Lunar Fragment
+	Alcohols: Sake or Ale
+	CorruptionOrCrimsonPotion: Corruption or Crimson Potion
+	EnabledInConfig: Enabled in item config
+}
+
+Configs: {
+	BuffariaConfig: {
+		DisplayName: Buffaria Config
+
+		AuraVisuals: {
+			Label: Aura Visuals
+			Tooltip: Toggles aura visuals
+		}
+
+		DisableInLegendary: {
+			Label: Disable In Legendary
+			Tooltip: Disables gills in For The Worthy or Zenith worlds
+		}
+
+		DisableImmunities: {
+			Label: Disable Immunities
+			Tooltip: Toggles if stacking potions is allowed
+		}
+
+		DisableFeatherfall: {
+			Label: Disable Featherfall
+			Tooltip: Toggles if Featherfall is active in upgraded potions
+		}
+
+		DisableGravitation: {
+			Label: Disable Gravitation
+			Tooltip: Toggles if Gravitation is active in upgraded potions
+		}
+
+		DisableBiomeSight: {
+			Label: Disable Biome Sight
+			Tooltip: Toggles if Biome Sight is active in upgraded potions
+		}
+
+		DisableDashing: {
+			Label: Disable Dashing
+			Tooltip: Toggles if double tap dashing is active in upgraded potions
+		}
+
+		DisablePhialEffects: {
+			Label: Disable Phial Effects
+			Tooltip: Toggles if dusts are created when using phials
+		}
+	}
+}
