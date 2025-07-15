@@ -1,1 +1,22 @@
-This description will show up on the steam page, check out https://steamcommunity.com/comment/Guide/formattinghelp.
+该mod是Buffaria的直装汉化
+使用方法：同时开启Buffaria和本mod
+
+该mod提供了全新的药水和上位药水，包括：
+ - 39 新药水
+ - 17 高级药水
+ - 17 治疗药水
+ - 15 药瓶 (药剂的平替)
+ - 4 高级药瓶
+
+[b]该mod与 Calamity-灾厄 和 Homeward Journey-旅人归途 、Thorium-瑟银有一定联动[/b]
+
+[h3]
+写在后面的碎碎念：
+制作该汉化有两个原因
+一、
+原创意工坊已经有了Buffaria的汉化
+但在7月份原mod更新，汉化许久未更新，因此个人重新制作
+二、
+我曾在1.3时期制作Buffaria的汉化，同时也是我玩泰拉制作的第一个汉化
+汉化源文件现在还在，重做1.4的汉化以纪念我游玩泰拉的美好时光
+[/h3]

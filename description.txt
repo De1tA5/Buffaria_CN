@@ -1,1 +1,7 @@
-Modify this file with a description of your mod.
+Buffaria是一个关于药水扩展的mod
+[c/de1414:内容如下:]
+ - 39 新药水
+ - 17 高级药水
+ - 17 治疗药水
+ - 15 药瓶 (药剂的平替)
+ - 4 高级药瓶
