@@ -179,13 +179,13 @@ Buffs: {
 	}
 
 	HoppingBuff: {
-		DisplayName: 跳跃
+		DisplayName: 腾跃
 		Description: 提升10%跳跃速度、摔落伤害高度增加25并增加跳跃高度
 	}
 
 	HyperBuff: {
 		DisplayName: 超速
-		Description: 提升5%奔跑速度和加速度
+		Description: 提升5%奔跑速度和5%加速度
 	}
 
 	ImpactBuff: {
@@ -244,7 +244,7 @@ Buffs: {
 	}
 
 	SoftfallBuff: {
-		DisplayName: 软着陆
+		DisplayName: 缓落
 		Description: 免疫摔落伤害
 	}
 
@@ -273,7 +273,7 @@ Buffs: {
 		Description:
 			'''
 			[i:Buffaria/FastHandsPotion] 提升5%攻击速度
-			[i:Buffaria/HyperPotion] 提升5%奔跑速度和加速度
+			[i:Buffaria/HyperPotion] 提升5%奔跑速度和5%加速度
 			[i:290] 提升25%移动速度
 			'''
 	}
@@ -284,7 +284,7 @@ Buffs: {
 			'''
 			[i:Buffaria/FirestarterPotion] 火焰减益将在敌怪间传播
 			[i:288] 免疫[C/FF7F27:燃烧]、[C/F48801:着火了！]减益和[C/CB2200:岩浆]伤害
-			[i:2359] 减少来自冷系敌怪的伤害
+			[i:2359] 减少来自寒冷源的伤害
 			'''
 	}
 
@@ -332,15 +332,15 @@ Buffs: {
 
 	SuperLuckyBuff: {
 		DisplayName: 超级幸运
-		Description: 增加20%幸运值，并在今年玩到 丝之歌
+		Description: 增加50%幸运值，并在今年玩到 丝之歌
 	}
 
 	SurvivalBuff: {
 		DisplayName: 生存
 		Description:
 			'''
-			[i:289][i:293]增加[C/F51318:生命]与[C/7D55FF:魔力]恢复速度
-			[i:Buffaria/PalladiumRegenerationPotion]攻击敌怪时获得[C/F77E55:快速治疗]增益
+			[i:289][i:293] 增加[C/F51318:生命]与[C/7D55FF:魔力]恢复速度
+			[i:Buffaria/PalladiumRegenerationPotion] 攻击敌怪时获得[C/F77E55:快速治疗]增益
 			'''
 	}
 
@@ -383,7 +383,7 @@ Buffs: {
 			[i:2266] 提高近战能力
 			[i:2344] 20%概率不消耗弹药
 			[i:303] 增加10%弓箭伤害和20%箭矢速度
-			[i:300] 增加敌怪生成速率
+			[i:300] 提高敌怪的生成速率
 			[i:Buffaria/BeePotion] 仆从命中敌怪时有20%概率释放蜜蜂
 			[i:Buffaria/BreakerPotion] 剑的大小提升10%
 			[i:Buffaria/ImpactPotion] 你的弹幕额外造成10%伤害
@@ -474,7 +474,7 @@ Buffs: {
 
 	MagnetBuff: {
 		Description: 扩大[C/F71318:红心]、[C/5559FF:魔力星]和[C/FF26CC:星云强化焰]的拾取范围
-		DisplayName: 磁力
+		DisplayName: 磁铁
 	}
 
 	NebulaPhialBuff: {
@@ -509,7 +509,7 @@ Buffs: {
 
 	CloseQuartersBuff: {
 		Description: 增加10%真近战伤害
-		DisplayName: 近战
+		DisplayName: 近身
 	}
 
 	ForceBuff: {
@@ -527,7 +527,7 @@ Buffs: {
 Items: {
 	GreaterHoneyedHealingPotion: {
 		DisplayName: 强效蜂蜜治疗药水
-		Tooltip: Improves natural healing for a short time
+		Tooltip: 短时间内增加自然生命恢复速度
 	}
 
 	GreaterRestorationPotion: {
@@ -536,13 +536,13 @@ Items: {
 	}
 
 	HoneyedHealingPotion: {
-		DisplayName: Honeyed Healing 药水
-		Tooltip: Improves natural healing for a short time
+		DisplayName: 蜂蜜治疗药水
+		Tooltip: 短时间内增加自然生命恢复速度
 	}
 
 	LesserHoneyedHealingPotion: {
-		DisplayName: 弱效Honeyed Healing 药水
-		Tooltip: Improves natural healing for a short time
+		DisplayName: 弱效蜂蜜治疗药水
+		Tooltip: 短时间内增加自然生命恢复速度
 	}
 
 	LesserRestorationPotion: {
@@ -551,8 +551,8 @@ Items: {
 	}
 
 	SuperHoneyedHealingPotion: {
-		DisplayName: 超级Honeyed Healing 药水
-		Tooltip: Improves natural healing for a short time
+		DisplayName: 超级蜂蜜治疗药水
+		Tooltip: 短时间内增加自然生命恢复速度
 	}
 
 	SuperRestorationPotion: {
@@ -561,491 +561,491 @@ Items: {
 	}
 
 	BetsyPhial: {
-		DisplayName: Betsy's药瓶
-		Tooltip: 攻击敌怪施加Betsy's Curse
+		DisplayName: 双足翼龙药瓶
+		Tooltip: 攻击敌怪施加[C/BC3E44:双足翼龙诅咒]
 	}
 
 	BleedingPhial: {
-		DisplayName: Bleeding药瓶
-		Tooltip: 攻击敌怪施加bleeding
+		DisplayName: 流血药瓶
+		Tooltip: 攻击敌怪施加[C/FF1B05:流血]
 	}
 
 	ConfusedPhial: {
-		DisplayName: Confusion药瓶
-		Tooltip: 攻击敌怪施加confusion
+		DisplayName: 困惑药瓶
+		Tooltip: 攻击敌怪施加[C/688EFD:困惑]
 	}
 
 	CursedFlamesPhial: {
-		DisplayName: Cursed Flames药瓶
-		Tooltip: 攻击敌怪施加cursed flames
+		DisplayName: 诅咒焰药瓶
+		Tooltip: 攻击敌怪施加[C/60F802:诅咒焰]
 	}
 
 	DaybreakPhial: {
-		DisplayName: Daybreak药瓶
-		Tooltip: 攻击敌怪施加daybroken
+		DisplayName: 破晓药瓶
+		Tooltip: 攻击敌怪施加[C/FFFCC8:破晓]
 	}
 
 	ElectricityPhial: {
-		DisplayName: Electricity药瓶
-		Tooltip: 攻击敌怪施加electrified
+		DisplayName: 电力药瓶
+		Tooltip: 攻击敌怪施加[C/71FBFF:带电]
 	}
 
 	ExplosivePhial: {
-		DisplayName: Explosive药瓶
-		Tooltip: Attacks explode
+		DisplayName: 爆破药瓶
+		Tooltip: 攻击敌怪产生[C/7B7B7B:爆炸]
 	}
 
 	FirePhial: {
-		DisplayName: Fire药瓶
-		Tooltip: 攻击敌怪施加fire
+		DisplayName: 火焰药瓶
+		Tooltip: 攻击敌怪施加[C/F48801:着火了！]
 	}
 
 	FrostburnPhial: {
-		DisplayName: Frostburn药瓶
-		Tooltip: 攻击敌怪施加frostburn
+		DisplayName: 霜冻药瓶
+		Tooltip: 攻击敌怪施加[C/1CC6F4:霜冻]
 	}
 
 	GoldPhial: {
-		DisplayName: Gold药瓶
-		Tooltip: 攻击敌怪施加midas
+		DisplayName: 金药瓶
+		Tooltip: 攻击敌怪施加[C/C7B045:迈达斯]
 	}
 
 	IchorPhial: {
-		DisplayName: Ichor药瓶
-		Tooltip: 攻击敌怪施加ichor
+		DisplayName: 灵液药瓶
+		Tooltip: 攻击敌怪施加[C/FECA50:灵液]
 	}
 
 	PoisonPhial: {
-		DisplayName: Poison药瓶
-		Tooltip: 攻击敌怪施加poison
+		DisplayName: 毒药瓶
+		Tooltip: 攻击敌怪施加[C/65D780:中毒]
 	}
 
 	ShadowflamePhial: {
-		DisplayName: Shadowflame药瓶
-		Tooltip: 攻击敌怪施加shadowflame
+		DisplayName: 暗影焰药瓶
+		Tooltip: 攻击敌怪施加[C/B96EF9:暗影焰]
 	}
 
 	VenomPhial: {
-		DisplayName: Venom药瓶
-		Tooltip: 攻击敌怪施加venom
+		DisplayName: 毒液药瓶
+		Tooltip: 攻击敌怪施加[C/7B4783:酸性毒液]
 	}
 
 	AquaAffinityPotion: {
-		DisplayName: Aqua Affinity 药水
-		Tooltip: Grants free water movement
+		DisplayName: 喜水药水
+		Tooltip: 获得水中自由移动的能力
 	}
 
 	BeePotion: {
-		DisplayName: Bee 药水
-		Tooltip: Grants minions an 20% chance to release bees on hit
+		DisplayName: 蜂蜜药水
+		Tooltip: 使仆从命中敌怪时有20%概率释放蜜蜂
 	}
 
 	BoostPotion: {
-		DisplayName: Boost 药水
-		Tooltip: Grants the ability to double tap dash
+		DisplayName: 增进药水
+		Tooltip: 获得双击方向键冲刺的能力
 	}
 
 	BreakerPotion: {
-		DisplayName: Breaker 药水
-		Tooltip: Increases sword size by 10%
+		DisplayName: 破坏者药水
+		Tooltip: 剑的大小提升10%
 	}
 
 	CavernPotion: {
-		DisplayName: Cavern 药水
-		Tooltip: Increases mining by 25% while in the caverns
+		DisplayName: 洞穴药水
+		Tooltip: 处于[C/7F7F7F:洞穴层]时，增加25%挖掘速度
 	}
 
 	CorruptionPotion: {
-		DisplayName: Corruption 药水
-		Tooltip: Increases damage by 10% while in the corruption
+		DisplayName: 腐化药水
+		Tooltip: 处于[C/624A60:腐化之地]时，增加10%伤害
 	}
 
 	CrimsonPotion: {
-		DisplayName: Crimson 药水
-		Tooltip: Increases damage by 10% while in the crimson
+		DisplayName: 猩红药水
+		Tooltip: 处于[C/902626:猩红之地]时，增加10%伤害
 	}
 
 	CrimtaneAssaultPotion: {
-		DisplayName: Crimtane Assault 药水
+		DisplayName: 血腥袭击药水
 		Tooltip:
 			'''
-			Attackers take half damage
-			Increases critical strike chance by 5%
+			增加5%暴击率
+			攻击者会受到一半伤害
 			'''
 	}
 
 	DemoniteProtectionPotion: {
-		DisplayName: Demonite Protection 药水
-		Tooltip: Reduces damage taken by 5% and increases defense by 5
+		DisplayName: 恶魔保护药水
+		Tooltip: 增加5点防御力和5%伤害减免
 	}
 
 	DesertPotion: {
-		DisplayName: Desert 药水
-		Tooltip: Increases luck by 10% while in the desert
+		DisplayName: 沙漠药水
+		Tooltip: 处于[C/CFBB72:沙漠]时，增加10%幸运值
 	}
 
 	FastfallPotion: {
-		DisplayName: Fastfall 药水
-		Tooltip: Increases fall speed by 50%
+		DisplayName: 速降药水
+		Tooltip: 提升50%降落速度
 	}
 
 	FastHandsPotion: {
-		DisplayName: Fast Hands 药水
-		Tooltip: Increases attack speed by 5%
+		DisplayName: 迅手药水
+		Tooltip: 增加5%攻击速度
 	}
 
 	FirestarterPotion: {
-		DisplayName: Firestarter 药水
-		Tooltip: Your fire debuffs will spread between enemies
+		DisplayName: 点火药水
+		Tooltip: 你造成的火焰减益将在敌怪间传播
 	}
 
 	FlightPotion: {
-		DisplayName: Flight 药水
-		Tooltip: Increases flight duration by 25%
+		DisplayName: 飞行药水
+		Tooltip: 增加25%飞行时间
 	}
 
 	ForestPotion: {
-		DisplayName: Forest 药水
-		Tooltip: Increases movement speed by 10% while in the purity
+		DisplayName: 森林药水
+		Tooltip: 处于[C/1BCF5A:森林]时，提升10%移动速度
 	}
 
 	HallowPotion: {
-		DisplayName: Hallow 药水
-		Tooltip: Increases flight duration by 25% while in the hallow
+		DisplayName: 神圣药水
+		Tooltip: 处于[C/AA7DCE:神圣之地]时，增加25%飞行时间
 	}
 
 	HellPotion: {
-		DisplayName: Underworld 药水
-		Tooltip: Grants immunity to burning while in the underworld
+		DisplayName: 地狱药水
+		Tooltip: 处于[C/F50404:地狱]时，使你免疫[C/FF7F27:燃烧]减益
 	}
 
 	HolyPotion: {
-		DisplayName: Holy 药水
-		Tooltip: Become immune after striking an enemy
+		DisplayName: 圣洁药水
+		Tooltip: 攻击敌怪使你获得[C/FFEA5C:神圣防护]增益
 	}
 
 	HoppingPotion: {
-		DisplayName: Hopping 药水
-		Tooltip: Increases jump speed by 10%, fall damage resistance by 25, and increases jump height
+		DisplayName: 腾跃药水
+		Tooltip: 提升10%跳跃速度、摔落伤害高度增加25并增加跳跃高度
 	}
 
 	HyperPotion: {
-		DisplayName: Hyper 药水
-		Tooltip: Increases running speed and acceleration by 5%
+		DisplayName: 超速药水
+		Tooltip: 提升5%奔跑速度和5%加速度
 	}
 
 	ImpactPotion: {
-		DisplayName: Impact 药水
-		Tooltip: Increases projectile damage by 10%
+		DisplayName: 冲击药水
+		Tooltip: 你的弹幕额外造成10%伤害
 	}
 
 	InfestedPotion: {
-		DisplayName: Infested 药水
-		Tooltip: Melee swings release damaging mushrooms
+		DisplayName: 寄生药水
+		Tooltip: 挥舞近战武器释放伤害性蘑菇
 	}
 
 	JunglePotion: {
-		DisplayName: Jungle 药水
-		Tooltip: Grants immunity to poison while in the jungle
+		DisplayName: 丛林药水
+		Tooltip: 处于[C/69B002:丛林]时，使你免疫[C/65D780:中毒]减益
 	}
 
 	ManaforcePotion: {
-		DisplayName: Manaforce 药水
-		Tooltip: Increases max mana by 20%
+		DisplayName: 魔力强化药水
+		Tooltip: 增加20%最大魔力
 	}
 
 	OceanPotion: {
-		DisplayName: Ocean 药水
-		Tooltip: Increases fishing power by 15 while at the ocean
+		DisplayName: 海洋药水
+		Tooltip: 处于[C/65BAE3:海洋]时，增加15%渔力
 	}
 
 	PalladiumRegenerationPotion: {
-		DisplayName: Palladium Regeneration 药水
-		Tooltip: Grants greatly increased life regeneration after striking an enemy
+		DisplayName: 钯金恢复药水
+		Tooltip: 攻击敌怪使你获得[C/F77E55:快速治疗]增益
 	}
 
 	PhoenixPotion: {
-		DisplayName: Phoenix 药水
-		Tooltip: Grants the ability to be revived with a 5 minute cooldown
+		DisplayName: 凤凰药水
+		Tooltip: 使你死亡后能[C/FF3400:满血重生]，有5分钟冷却
 	}
 
 	SentryPotion: {
-		DisplayName: Sentry 药水
-		Tooltip: Increases your max number of sentries by 1
+		DisplayName: 哨兵药水
+		Tooltip: 增加1个最大哨兵栏位
 	}
 
 	ShockPotion: {
-		DisplayName: Shock 药水
-		Tooltip: Electrifies nearby enemies
+		DisplayName: 电击药水
+		Tooltip: 产生一个电场，使电场内的敌怪受到电击
 	}
 
 	ShredderPotion: {
-		DisplayName: Shredder 药水
-		Tooltip: Attacks against bosses will do 20% extra damage
+		DisplayName: 粉碎药水
+		Tooltip: 对Boss额外造成20%的伤害
 	}
 
 	SnowPotion: {
-		DisplayName: Snow 药水
-		Tooltip: Grants immunity to chilled while in the tundra
+		DisplayName: 雪原药水
+		Tooltip: 处于[C/89BEE7:雪原]时，使你免疫[C/2186AE:冷冻]减益
 	}
 
 	SoftfallPotion: {
-		DisplayName: Softfall 药水
-		Tooltip: Grants fall damage immunity
+		DisplayName: 缓落药水
+		Tooltip: 使你免疫摔落伤害
 	}
 
 	StabbingPotion: {
-		DisplayName: Stabbing 药水
-		Tooltip: Increases armor penetration by 8
+		DisplayName: 穿刺药水
+		Tooltip: 增加8点护甲穿透
 	}
 
 	SteadfastPotion: {
-		DisplayName: Steadfast 药水
-		Tooltip: Grants immunity to knockback
+		DisplayName: 坚定药水
+		Tooltip: 使你免疫击退
 	}
 
 	UnflinchingPotion: {
-		DisplayName: Unflinching 药水
-		Tooltip: Increases length of invincibility after taking damage
+		DisplayName: 不屈药水
+		Tooltip: 延长受伤后的无敌状态时间
 	}
 
 	WisdomPotion: {
-		DisplayName: Wisdom 药水
-		Tooltip: Reduces mana usage by 10%
+		DisplayName: 智慧药水
+		Tooltip: 减少10%魔力消耗
 	}
 
 	AgilityPotion: {
-		DisplayName: Agility 药水
+		DisplayName: 迅敏药水
 		Tooltip:
 			'''
-			Increases attack speed by 5%
-			Increases running speed and acceleration by 5%
-			Increases movement speed by 25%
+			[i:Buffaria/FastHandsPotion] 提升5%攻击速度
+			[i:Buffaria/HyperPotion] 提升5%奔跑速度和5%加速度
+			[i:290] 提升25%移动速度
 			'''
 	}
 
 	BurningPotion: {
-		DisplayName: Burning 药水
+		DisplayName: 焚烧药水
 		Tooltip:
 			'''
-			Your fire debuffs will spread between enemies
-			Provides immunity to lava, burning, and on fire
-			Reduces damage from cold sources
+			[i:Buffaria/FirestarterPotion] 你造成的火焰减益将在敌怪间传播
+			[i:288] 免疫[C/FF7F27:燃烧]、[C/F48801:着火了！]减益和[C/CB2200:岩浆]伤害
+			[i:2359] 减少来自寒冷源的伤害
 			'''
 	}
 
 	CreationPotion: {
-		DisplayName: Creation 药水
+		DisplayName: 创造药水
 		Tooltip:
 			'''
-			Increases mining speed by 25%
-			Increases placement speed by 25%
-			Increases placement range
+			[i:2322] 增加25%挖掘速度
+			[i:2325] 增加25%放置速度
+			[i:2325] 增加放置距离
 			'''
 	}
 
 	DoubleRegenerationPotion: {
-		DisplayName: Double Regeneration 药水
-		Tooltip:
+		// DisplayName: 双生药水
+		/* Tooltip:
 			'''
 			Provides life regeneration
-			Increases mana regeneration
-			'''
+			Increases 魔力regeneration
+			''' */
 	}
 
 	GoliathPotion: {
-		DisplayName: Goliath 药水
+		DisplayName: 巨人药水
 		Tooltip:
 			'''
-			Increases defense by 13
-			Reduces damage taken by 15%
-			Become immune after striking an enemy
-			Increases length of invincibility after taking damage
-			Provides immunity to knockback
+			[i:292][i:Buffaria/DemoniteProtectionPotion] 增加13点防御力
+			[i:2346][i:Buffaria/DemoniteProtectionPotion] 增加15%伤害减免
+			[i:Buffaria/HolyPotion] 攻击敌怪使你获得[C/FFEA5C:神圣防护]增益
+			[i:Buffaria/UnflinchingPotion] 延长受伤后的无敌状态时间
+			[i:Buffaria/SteadfastPotion] 使你免疫击退
 			'''
 	}
 
 	MermaidPotion: {
-		DisplayName: Mermaid 药水
+		DisplayName: 人鱼药水
 		Tooltip:
 			'''
-			Grants free water movement
-			Lets you move swiftly in liquids
-			Breathe water instead of air
-			Allows the ability to walk on water
+			[i:Buffaria/AquaAffinityPotion] 获得水中自由移动的能力
+			[i:2327] 允许你在水中游泳
+			[i:291] 可在水中呼吸
+			[i:302] 可在水上行走，按向下键进入水中
 			'''
 	}
 
 	SuperLuckPotion: {
-		DisplayName: 超级Luck 药水
-		Tooltip: Increases luck by 50%
+		DisplayName: 超级幸运药水
+		Tooltip: 增加50%幸运值（我真的能玩到丝之歌吗？）
 	}
 
 	SurvivalPotion: {
-		DisplayName: Survival 药水
+		DisplayName: 生存药水
 		Tooltip:
 			'''
-			Grants increased life and mana regen
-			Grants greatly increased life regeneration after striking an enemy
+			[i:289][i:293] 增加[C/F51318:生命]与[C/7D55FF:魔力]恢复速度
+			[i:Buffaria/PalladiumRegenerationPotion] 攻击敌怪使你获得[C/F77E55:快速治疗]增益
 			'''
 	}
 
 	TerminatorPotion: {
-		DisplayName: Terminator 药水
+		DisplayName: 终结药水
 		Tooltip:
 			'''
-			Grants the ability to double tap dash
-			Ignites nearby enemies
-			Grants the ability to be revived with a 5 minute cooldown
-			Attacks against bosses will do 20% extra damage
-			Increases armor penetration by 8
-			Attackers also take damage
+			[i:Buffaria/BoostPotion] 获得双击方向键冲刺的能力
+			[i:2348] 附近的敌人将会被点燃
+			[i:Buffaria/PhoenixPotion] 使你死亡后能[C/FF3400:满血重生]，有5分钟冷却
+			[i:Buffaria/ShredderPotion] 对Boss额外造成20%的伤害
+			[i:Buffaria/StabbingPotion] 增加8点护甲穿透
+			[i:301] 攻击者会受到全部伤害
 			'''
 	}
 
 	UltimaPotion: {
-		DisplayName: Ultima 药水
-		Tooltip: Effects of all ingredients
+		DisplayName: 终末药水
+		Tooltip: 使你获得所有药水的效果
 	}
 
 	VisionaryPotion: {
-		DisplayName: Visionary 药水
+		DisplayName: 远视药水
 		Tooltip:
 			'''
-			Shows the location of infected blocks
-			Allows you to see nearby danger sources
-			Shows the location of enemies
-			Increases night vision
-			Shows the location of hostile projectiles
-			Emits an aura of light
-			Shows the location of treasure and ore
+			[i:5211] 显示被感染物块的位置
+			[i:2329] 你可以看到附近的危险物块
+			[i:304] 显示附近生物的位置
+			[i:299] 提升夜视能力
+			[i:Buffaria/RadarPotion] 显示敌对弹幕的位置
+			[i:298] 自生发出光亮
+			[i:296] 显示宝藏和矿石的位置
 			'''
 	}
 
 	WarfarePotion: {
-		DisplayName: Warfare 药水
+		DisplayName: 战斗药水
 		Tooltip:
 			'''
-			Minor improvements to melee stats & lowered defense
-			20% chance to save ammo
-			10% increased bow damage and 20% increased arrow speed
-			Increases enemy spawn rate
-			Grants minions an 20% chance to release bees on hit
-			Increases sword size by 10%
-			Increases projectile damage by 10%
-			Melee swings release damaging mushrooms
-			Increases true melee damage by 10%
-			Increases magic damage by 20%
-			Increases critical strike chance by 10%
-			Increases max number of minions and sentries
-			Increases knockback
-			Increases damage by 10%
-			Mana usage reduced by 10%
+			[i:2266] 略微提高近战属性，并降低防御力
+			[i:2344] 20%概率不消耗弹药
+			[i:303] 增加10%弓箭伤害和20%箭矢速度
+			[i:300] 提高敌怪的生成速率
+			[i:Buffaria/BeePotion] 使仆从命中敌怪时有20%概率释放蜜蜂
+			[i:Buffaria/BreakerPotion] 剑的大小提升10%
+			[i:Buffaria/ImpactPotion] 你的弹幕额外造成10%伤害
+			[i:Buffaria/InfestedPotion] 挥舞近战武器释放伤害性蘑菇
+			[i:Buffaria/CloseQuartersPotion] 增加10%真近战伤害
+			[i:294] 增加20%魔法伤害
+			[i:2347] 增加10%暴击率
+			[i:2328][i:Buffaria/SentryPotion] 增加1个最大仆从栏位和哨兵栏位
+			[i:2326] 提高击退力
+			[i:2349] 增加10%伤害
+			[i:Buffaria/WisdomPotion] 减少10%魔力消耗
 			'''
 	}
 
 	WayfarerPotion: {
-		DisplayName: Wayfarer 药水
+		DisplayName: 旅人药水
 		Tooltip:
 			'''
-			Increases mining by 25% while in the caverns
-			Increases damage by 10% while in the corruption or crimson
-			Increases luck by 10% while in the desert
-			Increases movement speed by 10% while in the purity
-			Increases flight duration by 25% while in the hallow
-			Grants immunity to burning while in the underworld
-			Grants immunity to poison while in the jungle
-			Increases fishing power by 15 while at the ocean
-			Grants immunity to chilled while in the tundra
+			[i:Buffaria/CavernPotion] 处于[C/7F7F7F:洞穴层]时，增加25%挖掘速度
+			[i:Buffaria/CorruptionPotion][i:Buffaria/CrimsonPotion] 处于[C/624A60:腐化之地]或[C/902626:猩红之地]时，增加10%伤害
+			[i:Buffaria/DesertPotion] 处于[C/CFBB72:沙漠]时，增加10%幸运值
+			[i:Buffaria/ForestPotion] 处于[C/1BCF5A:森林]时，提升10%移动速度
+			[i:Buffaria/HallowPotion] 处于[C/AA7DCE:神圣之地]时，增加25%飞行时间
+			[i:Buffaria/OceanPotion] 处于[C/65BAE3:海洋]时，增加15%渔力
+			[i:Buffaria/HellPotion] 处于[C/F50404:地狱]时，使你免疫[C/FF7F27:燃烧]减益
+			[i:Buffaria/JunglePotion] 处于[C/69B002:丛林]时，使你免疫[C/65D780:中毒]减益
+			[i:Buffaria/SnowPotion] 处于[C/89BEE7:雪原]时，使你免疫[C/2186AE:冷冻]减益
 			'''
 	}
 
 	WeightlessPotion: {
-		DisplayName: Weightless 药水
+		DisplayName: 失重药水
 		Tooltip:
 			'''
-			Increases fall speed by 50%
-			Slows falling speed
-			Increases flight duration by 25%
-			Allows the control of gravity
-			Increases jump speed by 10%, fall damage resistance by 25, and increases jump height
-			Grants fall damage immunity
+			[i:Buffaria/FastfallPotion] 提升50%降落速度
+			[i:295] 按向上键或向下键来控制下降速度
+			[i:Buffaria/FlightPotion] 增加25%飞行时间
+			[i:305] 按向上键可逆转重力
+			[i:Buffaria/HoppingPotion] 提升10%跳跃速度、摔落伤害高度增加25并增加跳跃高度
+			[i:Buffaria/SoftfallPotion] 使你免疫摔落伤害
 			'''
 	}
 
 	LegendaryPhial: {
-		DisplayName: Legendary药瓶
-		Tooltip: 攻击敌怪施加many debuffs and explode
+		DisplayName: 传说药瓶
+		Tooltip: 攻击敌怪施加众多减益并产生[C/7B7B7B:爆炸]
 	}
 
 	GreaterScalingHealingPotion: {
-		DisplayName: 强效Scaling Healing 药水
-		Tooltip: Restores 75% of your missing health
+		DisplayName: 强效缩放治疗药水
+		Tooltip: 恢复你已损失生命值的75%
 	}
 
 	LesserScalingHealingPotion: {
-		DisplayName: 弱效Scaling Healing 药水
-		Tooltip: Restores 25% of your missing health
+		DisplayName: 弱效缩放治疗药水
+		Tooltip: 恢复你已损失生命值的25%
 	}
 
 	ScalingHealingPotion: {
-		DisplayName: Scaling Healing 药水
-		Tooltip: Restores 50% of your missing health
+		DisplayName: 缩放治疗药水
+		Tooltip: 恢复你已损失生命值的50%
 	}
 
 	SuperScalingHealingPotion: {
-		DisplayName: 超级Scaling Healing 药水
-		Tooltip: Restores 100% of your missing health
+		DisplayName: 超级缩放治疗药水
+		Tooltip: 恢复你已损失生命值的100%
 	}
 
 	GreaterScalingManaPotion: {
-		DisplayName: 强效Scaling Mana 药水
-		Tooltip: Restores 75% of your missing mana
+		DisplayName: 强效缩放魔力药水
+		Tooltip: 恢复你已损失魔力的75%
 	}
 
 	LesserScalingManaPotion: {
-		DisplayName: 弱效Scaling Mana 药水
-		Tooltip: Restores 25% of your missing mana
+		DisplayName: 弱效缩放魔力药水
+		Tooltip: 恢复你已损失魔力的25%
 	}
 
 	ScalingManaPotion: {
-		DisplayName: Scaling Mana 药水
-		Tooltip: Restores 50% of your missing mana
+		DisplayName: 缩放魔力药水
+		Tooltip: 恢复你已损失魔力的50%
 	}
 
 	SuperScalingManaPotion: {
-		DisplayName: 超级Scaling Mana 药水
-		Tooltip: Restores 100% of your missing mana
+		DisplayName: 超级缩放魔力药水
+		Tooltip: 恢复你已损失魔力的100%
 	}
 
 	RadarPotion: {
-		Tooltip: Shows the location of hostile projectiles
-		DisplayName: Radar 药水
+		Tooltip: 显示敌对弹幕的位置
+		DisplayName: 雷达药水
 	}
 
 	TrapperPotion: {
 		Tooltip:
 			'''
-			20% chance to save ammo
-			10% increased bow damage and 20% increased arrow speed
-			Grants minions an 20% chance to release bees on hit
-			Increases projectile damage by 10%
-			Increases max number of minions and sentries
+			[i:2344] 20%概率不消耗弹药
+			[i:303] 增加10%弓箭伤害和20%箭矢速度
+			[i:Buffaria/BeePotion] 使仆从命中敌怪时有20%概率释放蜜蜂
+			[i:Buffaria/ImpactPotion] 你的弹幕额外造成10%伤害
+			[i:2328][i:Buffaria/SentryPotion] 增加1个最大仆从栏位和哨兵栏位
 			'''
-		DisplayName: Trapper 药水
+		DisplayName: 捕手药水
 	}
 
 	SpellswordPotion: {
 		Tooltip:
 			'''
-			Minor improvements to melee stats & lowered defense
-			Increases sword size by 10%
-			Melee swings release damaging mushrooms
-			Increases true melee damage by 10%
-			Increases magic damage by 20%
-			Mana usage reduced by 10%
+			[i:2266] 略微提高近战属性，并降低防御力
+			[i:Buffaria/BreakerPotion] 剑的大小提升10%
+			[i:Buffaria/InfestedPotion] 挥舞近战武器释放伤害性蘑菇
+			[i:Buffaria/CloseQuartersPotion] 增加10%真近战伤害
+			[i:294] 增加20%魔法伤害
+			[i:Buffaria/WisdomPotion] 减少10%魔力消耗
 			'''
-		DisplayName: Spellsword 药水
+		DisplayName: 魔剑药水
 	}
 
 	MegaRestorationPotion: {
@@ -1054,69 +1054,69 @@ Items: {
 	}
 
 	MegaHoneyedHealingPotion: {
-		Tooltip: Improves natural healing for a short time
-		DisplayName: 究极Honeyed Healing 药水
+		Tooltip: 短时间内增加自然生命恢复速度
+		DisplayName: 究极蜂蜜治疗药水
 	}
 
 	BoosterreachPotion: {
-		Tooltip: Increases pickup range for nebula boosters
-		DisplayName: Boosterreach 药水
+		Tooltip: 扩大[C/FF26CC:星云强化焰]的拾取范围
+		DisplayName: 拾焰药水
 	}
 
 	StarreachPotion: {
-		Tooltip: Increases pickup range for mana stars
-		DisplayName: Starreach 药水
+		Tooltip: 扩大[C/5559FF:魔力星]的拾取范围
+		DisplayName: 拾星药水
 	}
 
 	MagnetPotion: {
-		Tooltip: Increases pickup range for life hearts, mana stars, and nebula boosters
-		DisplayName: Magnet 药水
+		Tooltip: 扩大[C/F71318:红心]、[C/5559FF:魔力星]和[C/FF26CC:星云强化焰]的拾取范围
+		DisplayName: 磁铁药水
 	}
 
 	NebulaPhial: {
-		Tooltip: Attacks spawn nebula boosters
-		DisplayName: Nebula药瓶
+		Tooltip: 攻击敌怪产生[C/FF26CC:星云强化焰]
+		DisplayName: 星云药瓶
 	}
 
 	VoltaicPhial: {
-		Tooltip: 攻击敌怪施加confusion, electrified, midas, and explode
-		DisplayName: Voltaic药瓶
+		Tooltip: 攻击敌怪施加[C/688EFD:困惑]、[C/71FBFF:带电]、[C/C7B045:迈达斯]减益并产生[C/7B7B7B:爆炸]
+		DisplayName: 电流药瓶
 	}
 
 	ToxinPhial: {
-		Tooltip: 攻击敌怪施加Betsy's Curse, bleeding, ichor, poison, and venom
-		DisplayName: Toxin药瓶
+		Tooltip: 攻击敌怪施加[C/BC3E44:双足翼龙诅咒]、[C/FF1B05:流血]、[C/FECA50:灵液]、[C/65D780:中毒]和[C/7B4783:酸性毒液]减益
+		DisplayName: 毒素药瓶
 	}
 
 	IncendiaryPhial: {
-		Tooltip: 攻击敌怪施加cursed flames, fire, frostburn, and shadowflame
-		DisplayName: Incendiary药瓶
+		Tooltip: 攻击敌怪施加[C/60F802:诅咒焰]、[C/F48801:着火了！]、[C/1CC6F4:霜冻]和[C/B96EF9:暗影焰]减益
+		DisplayName: 纵火药瓶
 	}
 
 	TrawlerPotion: {
 		Tooltip:
 			'''
-			Increases chance to get a crate
-			Increases fishing power by 15
-			Detects hooked fish
+			[i:2356] 钓上宝匣的几率更大
+			[i:2354] 提高15点渔力
+			[i:2355] 你能看到是什么在咬你的鱼钩
 			'''
-		DisplayName: Trawler 药水
+		DisplayName: 渔获药水
 	}
 
 	CloseQuartersPotion: {
-		Tooltip: Increases true melee damage by 10%
-		DisplayName: Close Quarters 药水
+		Tooltip: 增加10%真近战伤害
+		DisplayName: 近身药水
 	}
 
 	ForcePotion: {
 		Tooltip:
 			'''
-			Attackers take half damage
-			Increases critical strike chance by 5%
-			Increases max life and mana by 20%
-			Electrifies nearby enemies
+			[i:Buffaria/CrimtaneAssaultPotion] 攻击者会受到一半伤害
+			[i:Buffaria/CrimtaneAssaultPotion] 增加5%暴击率
+			[i:2345][i:Buffaria/ManaforcePotion] 增加20%最大生命值和魔力
+			[i:Buffaria/ShockPotion] 附近敌人会受到电击
 			'''
-		DisplayName: Force 药水
+		DisplayName: 原力药水
 	}
 }
 
@@ -1146,43 +1146,43 @@ Configs: {
 		DisplayName: Buffaria设置
 
 		AuraVisuals: {
-			Label: 电场可视化
-			Tooltip: 切换电场的视觉效果
+			Label: 光环可视化
+			Tooltip: 切换[i:Buffaria/ShockPotion]电击药水 和[i:2348]狱火药水 的视觉效果
 		}
 
 		DisableInLegendary: {
-			Label: Disable In Legendary
-			Tooltip: Disables gills in For The Worthy or Zenith worlds
+			Label: 在传奇难度下禁用
+			Tooltip: 在FTW世界或天顶世界中禁用[i:291]鱼鳃药水
 		}
 
 		DisableImmunities: {
-			Label: Disable Immunities
-			Tooltip: Toggles if stacking 药水s is allowed
+			Label: 禁用药水叠加
+			Tooltip: 切换是否允许叠加上/下级药水的效果
 		}
 
 		DisableFeatherfall: {
-			Label: Disable Featherfall
-			Tooltip: Toggles if Featherfall is active in upgraded 药水s
+			Label: 禁用羽落效果
+			Tooltip: 切换[i:295]羽落药水 的效果是否在升级的药水中激活
 		}
 
 		DisableGravitation: {
-			Label: Disable Gravitation
-			Tooltip: Toggles if Gravitation is active in upgraded 药水s
+			Label: 禁用重力反转
+			Tooltip: 切换[i:305]重力药水 的效果是否在升级的药水中激活
 		}
 
 		DisableBiomeSight: {
-			Label: Disable Biome Sight
-			Tooltip: Toggles if Biome Sight is active in upgraded 药水s
+			Label: 禁用生物群系视觉
+			Tooltip: 切换[i:5211]生物群系视觉药水 的效果是否在升级的药水中激活
 		}
 
 		DisableDashing: {
-			Label: Disable Dashing
-			Tooltip: Toggles if double tap dashing is active in upgraded 药水s
+			Label: 禁用冲刺
+			Tooltip: 切换[i:Buffaria/BoostPotion]增进药水 的效果是否在升级的药水中激活
 		}
 
 		DisablePhialEffects: {
-			Label: Disable药瓶 Effects
-			Tooltip: Toggles if dusts are created when using药瓶s
+			Label: 禁用药瓶特效
+			Tooltip: 切换使用药瓶是否产生粒子效果
 		}
 	}
 }
